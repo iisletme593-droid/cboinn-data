@@ -72,6 +72,9 @@ async function main() {
   const byTx = new Map();
   for (const w of all) { const p = byTx.get(w.txHash); if (!p || w.usd > p.usd) byTx.set(w.txHash, w); }
   const whales = [...byTx.values()].sort((a, b) => b.usd - a.usd).slice(0, KEEP);
+  // Never overwrite a good feed with an empty one — a transient cold radar / GT blip must not
+  // wipe the last-good data (same "never cache empty" discipline the Worker uses).
+  if (!whales.length) { console.log(`no whales this run (${tokens.length} tokens) — keeping last-good feed`); return; }
   const feed = { updatedAt: new Date().toISOString(), count: whales.length, whales };
   const { writeFileSync } = await import('node:fs');
   writeFileSync('whale-feed.json', JSON.stringify(feed, null, 2) + '\n');
