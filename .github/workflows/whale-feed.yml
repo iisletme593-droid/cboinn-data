@@ -1,0 +1,37 @@
+name: whale-feed
+# Rebuilds whale-feed.json every ~15 min from CBOINN's trending tokens via GeckoTerminal.
+# Runs on GitHub's IP (not GeckoTerminal-rate-limited like our Cloudflare egress), then commits
+# the JSON so the CBOINN Worker can read it from raw.githubusercontent.com. Public on-chain data.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: whale-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build whale-feed.json
+        run: node build-whale-feed.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "cboinn-bot"
+          git config user.email "bot@cboinn.com"
+          if [[ -n "$(git status --porcelain whale-feed.json)" ]]; then
+            git add whale-feed.json
+            git commit -m "chore: refresh whale-feed ($(date -u +%FT%TZ))"
+            git push
+          else
+            echo "no change"
+          fi
