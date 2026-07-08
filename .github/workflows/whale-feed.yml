@@ -24,15 +24,13 @@ jobs:
           node-version: '20'
       - name: Build whale-feed.json
         run: node build-whale-feed.mjs
-      - name: Build bingx-listings.json
-        run: node build-bingx-listings.mjs
       - name: Commit if changed
         run: |
           git config user.name "cboinn-bot"
           git config user.email "bot@cboinn.com"
-          git add whale-feed.json bingx-listings.json
-          if [[ -n "$(git status --porcelain --cached)" ]]; then
-            git commit -m "chore: refresh feeds ($(date -u +%FT%TZ))"
+          if [[ -n "$(git status --porcelain whale-feed.json)" ]]; then
+            git add whale-feed.json
+            git commit -m "chore: refresh whale-feed ($(date -u +%FT%TZ))"
             git push
           else
             echo "no change"
