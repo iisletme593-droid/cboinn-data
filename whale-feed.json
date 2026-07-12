@@ -1,62 +1,7 @@
 {
-  "updatedAt": "2026-07-12T11:59:09.060Z",
+  "updatedAt": "2026-07-12T14:55:39.427Z",
   "count": 40,
   "whales": [
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 40444.359988711,
-      "usd": 40426.9101153749,
-      "trader": "0x0c8cd1685a4d7207840ba7f31ea155c9e962a187",
-      "txHash": "0xbcdfbf894e77d3bb84204b60633de5e7630a67c986d258f3aef2515bab6c3648",
-      "ts": 1783857497000
-    },
-    {
-      "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "sell",
-      "amount": 105893.436478,
-      "usd": 20525.677683026,
-      "trader": "63K1ykHFa1gpLM4RwzBpR3hxXfQgdknrBPF3pL6APmhd",
-      "txHash": "3ZduB3WS4uRwk39mN7Cmv9FRGRQ1PP4GUYcp68yXM3Qh5qULS34835ATeWCedtGJPyyupDKETcq6y5bw8orvB5zG",
-      "ts": 1783838054000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 20421.3557151445,
-      "usd": 20400.2388465068,
-      "trader": "0x346deba242c32165c04686b9860c00dd8ccf7df9",
-      "txHash": "0xa7044cfc3d603fafcb3296f8e549861caa6efffb18a1b8aa4fb8b5a595dd3b44",
-      "ts": 1783857442000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 19978.6408820575,
-      "usd": 19939.0469894324,
-      "trader": "0xa54dc4425190570cb5c841adf445bbecf3b249f5",
-      "txHash": "0x2ebc8ff6ac1c1deea8b56788ed9838bf7bdaa0632d0e1df6072fdbf0aaa654af",
-      "ts": 1783857367000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 19829.1868666536,
-      "usd": 19804.7554555831,
-      "trader": "0x1fa75d60baa39b5a95a7141f98d55936238abfc1",
-      "txHash": "0x918a0f6f1231f00a5167e29737e191e2c227e8e3584bb9a49896b184118dea19",
-      "ts": 1783857280000
-    },
     {
       "chain": "solana",
       "token": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
@@ -69,26 +14,26 @@
       "ts": 1783846882000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
       "dir": "buy",
-      "amount": 17278.9512781329,
-      "usd": 17247.680240686,
-      "trader": "0x039aa15457038d0f2f75b5a1e77307e6957e053c",
-      "txHash": "0xd27d87d2a05ea57756ef24edf3534c0ccee97a5b28e1cbc8e29ce46fa5f943c2",
-      "ts": 1783857367000
+      "amount": 72522.860775,
+      "usd": 16303.006671227176,
+      "trader": "7U4x2ApDR1Kz1E5Vnxmvu4gn6m2pgLFENzRERBDX4f7w",
+      "txHash": "3EBCBKtzyf6GJVLcbAg9F7RUgJ4qfDDBZL3pxHk68gbGGFN9Z6Z1HbCz9hwBW9haM2R8kgheZQzMoceHQk6dETHK",
+      "ts": 1783859342000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 16630.3956958005,
-      "usd": 16621.6217372823,
-      "trader": "0xfc5f3b54adf8eae9e451d86843bc81fc81e425f4",
-      "txHash": "0xc96c9a8ec31e903cc9de234d01374a3c1ebeb615d981f53c06ebbe8df0ae5e56",
-      "ts": 1783857497000
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 70707.465563,
+      "usd": 16165.586862879896,
+      "trader": "7U4x2ApDR1Kz1E5Vnxmvu4gn6m2pgLFENzRERBDX4f7w",
+      "txHash": "Ed6CZKE6pgMxssWuzmv5uw7S2Po4kzTQ3naQVS7ZTMAGirPqL7q7BZ1oFTthBJNPiWJrZTY7T2haJ2gs6NkFsHf",
+      "ts": 1783859415000
     },
     {
       "chain": "solana",
@@ -113,72 +58,6 @@
       "ts": 1783809759000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 14324.8101956707,
-      "usd": 14325.3970367967,
-      "trader": "0xabb2acd3be814a80e502575d6c1dc5f789e9cd10",
-      "txHash": "0xc121899046ec8f074d6a99d37dae721367ceaf1be7c2f293429378e59e528dd0",
-      "ts": 1783857048000
-    },
-    {
-      "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "buy",
-      "amount": 70451.362182,
-      "usd": 14161.827375557887,
-      "trader": "CuFXBG4nkYuvdip5nmZHWQx8DSCzVEptYosCjbZXcAKU",
-      "txHash": "xkDTYgMDVLJB9vvzik8DVKDwPAy7M8gT5tgLAZ8fvyepAQt4oUhStUenCcRJHuy3CZ1WsEgFNW5Ftq6qbLWryUm",
-      "ts": 1783841917000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 13707.9518217668,
-      "usd": 13688.79859536,
-      "trader": "0x2aa98e3d8390481137cab60c83673bfce20c3e91",
-      "txHash": "0xfd6b989ea822784600be15bea0b509d2e8d88f6e8920368e27b57ece732c8f84",
-      "ts": 1783857354000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 12408.3929850717,
-      "usd": 12393.9002418857,
-      "trader": "0xf70da97812cb96acdf810712aa562db8dfa3dbef",
-      "txHash": "0x12eb2daad36e23a6e50dcb1482dae8c9476c4d6e430b19a81664dab3cba39b66",
-      "ts": 1783857310000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 11605.0264198754,
-      "usd": 11594.4908882522,
-      "trader": "0x1fa75d60baa39b5a95a7141f98d55936238abfc1",
-      "txHash": "0xd2ea252f078613663221e9f9b1e81b07c260110fce8e1670dbaea5eaaf929730",
-      "ts": 1783857305000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 11471.4146278111,
-      "usd": 11468.0097689151,
-      "trader": "0xc8e42017d04103377feecc676de30164476d23a1",
-      "txHash": "0xc4526b757796f3aee825f04f65585738cba00b903b3b9f0c9390408ed93839f4",
-      "ts": 1783857180000
-    },
-    {
       "chain": "solana",
       "token": "4ko5tSr5o3H4v1sFtjTSd9MPUW7yx5AFCpkNPoL6pump",
       "symbol": "febu",
@@ -188,6 +67,28 @@
       "trader": "z4zJPY7DNE58d9odhvutHK1kvnZrEZimQg8fUMVZ6oo",
       "txHash": "2HAmpuRzzXQH5HzTqX9BtyQ2cbo6up9YPPKvykTi2uHG5KSQiFGAX62xTknREvjKLJ7us2eZ7zbh2ePcfxBDLZDW",
       "ts": 1783809823000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 43985.456114,
+      "usd": 10541.511938710351,
+      "trader": "HCgo8gvk99Wk13XWbbAoyxyEx2DgzidzVDma4ny32uYC",
+      "txHash": "5w9A7KPMFFP6iQ2eQgSQqpw59HHYb3wKor7Y1ynD8P3vVNoRCN4si2jxUACUdVhSoMf4J6JYoWhfMRZma4TmxhRe",
+      "ts": 1783867030000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 45506.956875,
+      "usd": 10501.200367145131,
+      "trader": "7U4x2ApDR1Kz1E5Vnxmvu4gn6m2pgLFENzRERBDX4f7w",
+      "txHash": "BgcVRqTZiYxCPeH6xjPZBa61cEvNdppaeVqEgdVWzytSshUF8r9nq7v5o1ZMkBVqCNgoUNogmyRZm3P1SJpqCUA",
+      "ts": 1783859442000
     },
     {
       "chain": "solana",
@@ -205,22 +106,11 @@
       "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
       "symbol": "ANSEM",
       "dir": "buy",
-      "amount": 48399.373229,
-      "usd": 10231.695457108057,
-      "trader": "FSU7qY4zZoQjxa8gttu5AYy8yomg2JqPSnGM7kupARSb",
-      "txHash": "3wYinyz9R9kziEcWV3hUmAEQy8hHkvqKXHEvnqXxbbZH4MstcbGAT2AjbuMBVddfdLSsahAW7KgUSamrVmAhjMsz",
-      "ts": 1783850840000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 10055.0034137321,
-      "usd": 10040.8768078621,
-      "trader": "0xf87ce428dae1a5c6bd93b967534e53f9fd9f19be",
-      "txHash": "0x31c0739d2df01f78086b31e3d4f4c1769ede04690be9f3577f1b171f728805cc",
-      "ts": 1783857337000
+      "amount": 43586.899019,
+      "usd": 10352.073285176704,
+      "trader": "ERD97gqCAbHt7HEdS1767ZSZJzh4nFTJ5KvMtoNRbP19",
+      "txHash": "B3TDJ4jSn3RMUSCpk8ejktRCyC8gTU5RuzHvtdj4Tc8xXRz33s5AFXWCw9AcSBBTkMd2pno7fiXGZZdNfVsGpsc",
+      "ts": 1783866979000
     },
     {
       "chain": "solana",
@@ -245,39 +135,6 @@
       "ts": 1783857118000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 8699.7333984375,
-      "usd": 8698.22090171103,
-      "trader": "0x1fa75d60baa39b5a95a7141f98d55936238abfc1",
-      "txHash": "0xa1bf07263d0b12f2df886dcec32e6de38607a0c1f3946030af131140054e6a99",
-      "ts": 1783857162000
-    },
-    {
-      "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "buy",
-      "amount": 40370.303595,
-      "usd": 8636.500144010852,
-      "trader": "FSU7qY4zZoQjxa8gttu5AYy8yomg2JqPSnGM7kupARSb",
-      "txHash": "2mZ7Lpft5fUC8ZuZ8eZxMV2rY6EtWueP1T6iYccQR6nMb8ybK35T1AgoYrWK6uEPKZbBiftYasA8U6LkB8G5ovXr",
-      "ts": 1783850849000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 8611.56811523438,
-      "usd": 8601.59746597718,
-      "trader": "0xc8e42017d04103377feecc676de30164476d23a1",
-      "txHash": "0x30f2951982299409890d9abc05744da5211c7cb1c4910bd0381f308ce914ae52",
-      "ts": 1783857246000
-    },
-    {
       "chain": "solana",
       "token": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
       "symbol": "SCAM",
@@ -287,61 +144,6 @@
       "trader": "HL8WxE7MWdpLQBsgzXmsUFGnzdPJCCVzWaVRvjHUESzV",
       "txHash": "5soHzP19ovQHHWueq87eLk3UttwLfvHhuWrdV7aU2RfcLRJ89LPJMnuwxvh4fLPRdBXKes5f9AQSQidV3UD8hPcE",
       "ts": 1783845988000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 8364.92765062765,
-      "usd": 8357.02541987557,
-      "trader": "0x56c262027e0de4aea31d2489529cb25d23e58a8b",
-      "txHash": "0x29e440254cecaf70a151ff8902d96983b80d1fa626efd5e1770f8f43756a5148",
-      "ts": 1783857504000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 8275.05497034646,
-      "usd": 8276.12643556826,
-      "trader": "0xc6b60c6b18004ace3eaed736d1acb197b40ad200",
-      "txHash": "0x37602bc01bc972c0829e77b9fb8eb13e59a93dcf25d2f3afae7ecad55f08d3d6",
-      "ts": 1783857057000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 8247.67150353322,
-      "usd": 8249.2057103299,
-      "trader": "0xc8e42017d04103377feecc676de30164476d23a1",
-      "txHash": "0xbb612693e7fed7581b1c5e5390807b1a4322290abcbb1a20507921054e712a77",
-      "ts": 1783857048000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 8200.48948291341,
-      "usd": 8197.18504651181,
-      "trader": "0xa67d7eb4dc68fa6ce8e34ef8cadaf075b9893fbb",
-      "txHash": "0x46b3f73cfd3183b36a81a4ebe9866e993a202d79ced363c60f6ca4577a8dccdf",
-      "ts": 1783857168000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 8114.94493755012,
-      "usd": 8114.92994578145,
-      "trader": "0x878347860dc1f7c32e31e71892616e359f71cf94",
-      "txHash": "0x1d29c5375c28d8b9e227614db526633a87a6e78bc56a1e8af2a26306ab2c03c9",
-      "ts": 1783857053000
     },
     {
       "chain": "solana",
@@ -355,37 +157,15 @@
       "ts": 1783856353000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "sell",
-      "amount": 8021.78247070313,
-      "usd": 8017.62278313517,
-      "trader": "0xc8e42017d04103377feecc676de30164476d23a1",
-      "txHash": "0xd7ffaad42a21e97b246c4c8939b328ad7f9c0775f6078da6d022d3a42b054d09",
-      "ts": 1783857213000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
       "dir": "buy",
-      "amount": 7920.08877380253,
-      "usd": 7909.77226555819,
-      "trader": "0xc8e42017d04103377feecc676de30164476d23a1",
-      "txHash": "0x5ff612b9db38d95f52d1f96315ddc7cf789e56b5de03e3d04cb80e2ae2c3e1b7",
-      "ts": 1783857428000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 7792.7629420369,
-      "usd": 7784.34344940161,
-      "trader": "0x6b57c0e92945197048160d31afecc0c5c9ce5ea3",
-      "txHash": "0x7d895d739ffc6630118958a8470654a59a4e2b0ea5a7814ebfdd26002cfe59c1",
-      "ts": 1783857304000
+      "amount": 35127.790466,
+      "usd": 7928.2319528858225,
+      "trader": "ByN1aujZ6wNm2bdSgK8ZYHCMkpyVF8BT8fhW63jcEDMK",
+      "txHash": "3cCRF1M8j7n7cYu3HdAMUA4HSjxmgbQN2Mw27ZzucweVpAfVVqLxtfKPZg5ej7zwn8gDLafbypRdTysPpxBa7nKY",
+      "ts": 1783859948000
     },
     {
       "chain": "solana",
@@ -400,17 +180,6 @@
     },
     {
       "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "buy",
-      "amount": 33629.774235,
-      "usd": 7708.35298053893,
-      "trader": "E8C8KvJzRn7rBgjLdMmH4ssDhjq7tWFRvARkVuz22uYf",
-      "txHash": "4UCL8N9LtxZzmqMx3nLjFG2naJn7WzgNcnFsnhcgrmwgk2YZHbSjTEFhzPcAp5LWLgeKH1cqBo3RnobgkRAeMYmY",
-      "ts": 1783853590000
-    },
-    {
-      "chain": "solana",
       "token": "4ko5tSr5o3H4v1sFtjTSd9MPUW7yx5AFCpkNPoL6pump",
       "symbol": "febu",
       "dir": "sell",
@@ -421,26 +190,257 @@
       "ts": 1783827948000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "dir": "buy",
-      "amount": 7393.389858757,
-      "usd": 7379.4144705036,
-      "trader": "0x2aa98e3d8390481137cab60c83673bfce20c3e91",
-      "txHash": "0xf5be445f7a8a36719246060f4483518656ec0e691f056c66636bd2c2f3c85a5a",
-      "ts": 1783857385000
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 32610,
+      "usd": 7244.9261433736965,
+      "trader": "8spEGd9NLZTDh3oBHKNbwdNu6Ws9u857cHEsMBesSwhk",
+      "txHash": "4pZCX5aYjZiyRANM6887JBQsZaeP48QWFkkpxTyswHXQb9UMn66Dt2j7cuaEsodnJwXfpfxee297W9XCDtU2Bmxb",
+      "ts": 1783856183000
     },
     {
-      "chain": "bsc",
-      "token": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
       "dir": "sell",
-      "amount": 7327.12209330305,
-      "usd": 7321.07054184863,
-      "trader": "0x435adc5dc02120a315c930a16ec6612a2b258dfb",
-      "txHash": "0xc75baf93751b299edf30d8162654ebd19f75243ab8c7364907299608aae17733",
-      "ts": 1783857507000
+      "amount": 29890,
+      "usd": 7148.0928275995175,
+      "trader": "7QvDx8BwdTAnq7PZMLXhkFjgHWHPVm6BdeUX3cocmxac",
+      "txHash": "objkTf5gXDgeQzzDBbqQWFFirCQWvka6sTK87odV22xFS3nTsnbFcM3s2hS1teByw5k4GrPSGeKqde4dcZe1PkV",
+      "ts": 1783867097000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 30687.013936,
+      "usd": 7022.698268302748,
+      "trader": "3mu2u8oKdgfHjBjoF2YBnz4SbFx2p6Wt4i7DcpmjXM6B",
+      "txHash": "3v99frdggtjL1Ef4ao1YkRFvRhUYMsPWBcAnhPSpFdy2ZE2zZUVC4NqEW8HMc5BuNnUCctXqYQkQC532M2vqjkqo",
+      "ts": 1783862682000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 28980,
+      "usd": 6538.731054326982,
+      "trader": "8spEGd9NLZTDh3oBHKNbwdNu6Ws9u857cHEsMBesSwhk",
+      "txHash": "4ER8LKWwNtit2ycZyFD7b7JoBsWuoGK82c1ZD8inEq4qabz2ZAqkMxn2arwwfs1JHTqUQMkf5QhULdMVS98UinHQ",
+      "ts": 1783856143000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 27846.2216,
+      "usd": 6394.590854122743,
+      "trader": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+      "txHash": "DDqhZjDAtcMjVViHdHknf4PrLiHzdN4pu6mNdhhanLNQKGsieB6kq9d6dBBeDv5Djjx2gkVHDaw7qVkxsXtJLyS",
+      "ts": 1783860624000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 26443.156155,
+      "usd": 6274.697283695422,
+      "trader": "HWoE357rQoLsn5NUeLgSPxvPWRa7Rhk3vdfNc6x5W3Et",
+      "txHash": "qKKQz5UUUaDEKtVc4dpiyV2ER1tEiswquXf9mRChwCLgzHccttz44AX6ErDY6riWzxhCPWyja7DE6jPqgWacs85",
+      "ts": 1783866870000
+    },
+    {
+      "chain": "solana",
+      "token": "4ko5tSr5o3H4v1sFtjTSd9MPUW7yx5AFCpkNPoL6pump",
+      "symbol": "febu",
+      "dir": "buy",
+      "amount": 1937860.945769,
+      "usd": 6207.49104248983,
+      "trader": "CpfH3fgjESRjbZiAJDAgLTmXXKhMusnbhCBMQXN6w5Hm",
+      "txHash": "2UinVcYsPDxXCN4jfmH7JvoztF26aBWKjAdp8ux5xSkV7DCndPq62r1yfJcP4BYMUQVRFgEHk4QGox5Dwgipxa7Z",
+      "ts": 1783809463000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 28512.397134,
+      "usd": 6198.8493464965595,
+      "trader": "3v7saAEPyPZX8NzHtSoXHW9kgCdULRVqQaE4TzJauK5K",
+      "txHash": "3zkqjJAtbD7HFQrF3NSJ6VxBAecdEKXApAWqg5kZ6k2CNcDYVGwaziLWzvW5FfLCvMQppbkF6JG5XEhyeRX5jBj6",
+      "ts": 1783856288000
+    },
+    {
+      "chain": "solana",
+      "token": "4ko5tSr5o3H4v1sFtjTSd9MPUW7yx5AFCpkNPoL6pump",
+      "symbol": "febu",
+      "dir": "sell",
+      "amount": 1546135.290796,
+      "usd": 6106.919803784048,
+      "trader": "A7FMMgue4aZmPLLoutVtbC7gJcyqkHybUieiaDg9aaVE",
+      "txHash": "3VvSsCNLGMLfkAYHyH2zdn47LSGcV2kNB4AP2VFYbTxYKR7pGcYgFLs3b9Qt6sD715nFDR6AAcmT4CuHv5rW5PZg",
+      "ts": 1783809759000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 28520.55,
+      "usd": 6087.866867765997,
+      "trader": "9UUyxTXZByLMjbCk5jLBejvPS5bcUA37yXdxwhabdxjT",
+      "txHash": "uPGpUwtGs7djgkSAVPFTTN1kC4UdUVRQwyeTyi2q32iiMeZ5QgNM3k6HcrQ8p4ynAHGKhiHbRP5qXRFaBTj3GCz",
+      "ts": 1783856433000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 25455.42327,
+      "usd": 5988.814395725203,
+      "trader": "HCoUkq7iHecWTVCAVPfH9fBSGbZrgrE2jbHrE1rnCpUV",
+      "txHash": "4eTo7aRqG4Kp8chrV4sijhVsEpjA6Kwg4sB56DtPcxz58GhXiMP6dreRXvuGPzrmR1aSY244cMtk7hpKmU37mbcE",
+      "ts": 1783865715000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 28000,
+      "usd": 5941.932476051091,
+      "trader": "AMRwcYCrcD2cL8zWX3JfKH8VPBoBgmBLK9v24e43RpQD",
+      "txHash": "5V8EJ5fxYnFHK11MvLges4CbRYaWXerfJzsWod5JeXcRZMA98Sgspx2Q9qhQbT2FyB1TLpKUtTjGG4wMUNrofuec",
+      "ts": 1783856700000
+    },
+    {
+      "chain": "solana",
+      "token": "gsoZaYPVioFi9GRaehCnvNqUSNWYNZNVKT9oyoJpump",
+      "symbol": "HOME",
+      "dir": "sell",
+      "amount": 10451025.53071,
+      "usd": 5929.203749873957,
+      "trader": "9efrkEtA8giQK7aUMQ5mthBB2v3HgKWfCZp48YMYJ3Kc",
+      "txHash": "4jE8gF334PYoYQmsFoiRjEzM8ZM7QWGQ9MMXRUUG5P28Cqdcg3TCYm5YkUj19gQH8rxVggN5oChcGPuKCA2RZ4SQ",
+      "ts": 1783828796000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 27561.297541,
+      "usd": 5902.445640037254,
+      "trader": "EqhWguQKwXE7uMcH3rsfbpbfDvomehgeRiAtbbh4vYsv",
+      "txHash": "3dk9pQZR568umF1UodZKKnvrbjDT93s6YVZB71aiN3X9EyQugjoVU7i6MAVWYQFkfTJtuDBA9uyiNPXw7GCPgfer",
+      "ts": 1783856353000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 25084.003061,
+      "usd": 5886.676037059769,
+      "trader": "9nzMbowKkDUGyipxzgLsH6Qj74U77pMP8QUDezVP7BPh",
+      "txHash": "229ZN5pqZRZurkWFRJEUFS35DtPHC4LbLkC4eweBLEqzRr2zfsrKp9hch4DydAZCbibJbDw377JbbNHf6kJVEP2J",
+      "ts": 1783866091000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 25152.571059,
+      "usd": 5780.126359601642,
+      "trader": "FireuLYd4yjJBhXQyBs3Mq6ZpNEjyHPNPG2eqhTP9RHV",
+      "txHash": "43iLoutRD5w1x1ZAF7MWzFpidPkVtPayVxe76kA9Xvbq2jpa36hRyfGMCGvGwUXtqTN3nKkxmmraKKBxbUUYc9g3",
+      "ts": 1783867984000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 24238.275806,
+      "usd": 5744.065808357005,
+      "trader": "8vjChJhBiVJPpG6HRYB2YGZZHbAVsiFoj4qifmwC96xJ",
+      "txHash": "S3tdKA5rCAPrrMdpH4vE1pGiQ6hjqP4GftKdq6DW6ybV6eSKv7q1ACiZ3AWwZVLX8QL3dqgCnWBvtHsACDc32Cg",
+      "ts": 1783867383000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 26217.94,
+      "usd": 5632.332036806823,
+      "trader": "BVabVxQnsHCEWiapqMUFdatKmPQ6C2buvQ5xbbcBbokP",
+      "txHash": "24ZvUUdM29gEGt6pU3Tix1zRFKZvX8aqEiKVF1QRuEdEidmJiNJDpxJQTCkz6VhKjfJ5kMaB2DMjodeexE1RcCMx",
+      "ts": 1783858580000
+    },
+    {
+      "chain": "solana",
+      "token": "gsoZaYPVioFi9GRaehCnvNqUSNWYNZNVKT9oyoJpump",
+      "symbol": "HOME",
+      "dir": "buy",
+      "amount": 12768262.41853,
+      "usd": 5627.24303531397,
+      "trader": "9efrkEtA8giQK7aUMQ5mthBB2v3HgKWfCZp48YMYJ3Kc",
+      "txHash": "3Cd2mYqfGa9RtY5UxCnN6DFyNcYCtMAZaA8mF3h81BTH6HRdhjBigUuMRW2Kyfn5aty6hcc5dYpLssGP87ocaSZo",
+      "ts": 1783827963000
+    },
+    {
+      "chain": "solana",
+      "token": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
+      "symbol": "SCAM",
+      "dir": "buy",
+      "amount": 4814172.502657,
+      "usd": 5527.43714019435,
+      "trader": "HL8WxE7MWdpLQBsgzXmsUFGnzdPJCCVzWaVRvjHUESzV",
+      "txHash": "3WAFuhxh8t6Cm3ajKEMaR1kPfqNeshP4w8hxjz77dLSj8zVFnzFc1fHkLZehFLc8gsrda7NpW9BBqSDugu7UBgPD",
+      "ts": 1783845844000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 24999.13,
+      "usd": 5468.550608816647,
+      "trader": "9UUyxTXZByLMjbCk5jLBejvPS5bcUA37yXdxwhabdxjT",
+      "txHash": "41dp7ZxySJ3x99ZQXSYhQCnL7fnFnHQjfo1bcosNsZVuFLY36GcHZf4xiR9B3CWDMCWVhEqinxYc6YxLgXodRn55",
+      "ts": 1783854559000
+    },
+    {
+      "chain": "solana",
+      "token": "4ko5tSr5o3H4v1sFtjTSd9MPUW7yx5AFCpkNPoL6pump",
+      "symbol": "febu",
+      "dir": "sell",
+      "amount": 2616251.130325,
+      "usd": 5330.216057016088,
+      "trader": "3ydzaC8aC7A8AmnMdNCZVpVjdvCHXJpJp7GKU2sYZgwa",
+      "txHash": "YMJWCYJimdURqDMJiqjeDFm9Z4pfEzWQoYTxSCe8zN85A3HLq3srF6zLvRNYVQGQn2o3TyXRRARFB1RaVMrjNVN",
+      "ts": 1783822623000
+    },
+    {
+      "chain": "solana",
+      "token": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
+      "symbol": "SCAM",
+      "dir": "buy",
+      "amount": 4708174.821544,
+      "usd": 5328.825383850479,
+      "trader": "13VK7ZrRrx1uZ4Frm2TjacNsbipun21qqifE8wibPVys",
+      "txHash": "2xPtbEsheGHdzNCBUqhBi9FrAJyP5P8KLHeD4bn2KPdnUXyPp4UnrXwiXU44HuR8DArfCHuePtzHDwQEPfLNXdxW",
+      "ts": 1783846882000
     }
   ]
 }
