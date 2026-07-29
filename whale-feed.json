@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:37:20.118Z",
+  "updatedAt": "2026-07-29T22:39:55.860Z",
   "count": 40,
   "whales": [
     {
@@ -39,12 +39,23 @@
       "chain": "solana",
       "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
       "symbol": "Jimothy",
-      "dir": "buy",
-      "amount": 686933.111443,
-      "usd": 8223.452040809758,
-      "trader": "Em8J3gBWapfVBGVhVipwQnLrqCvnWBnLajw6XFsFECPF",
-      "txHash": "33Y6zUbqkjwaxfKgewk2Hk2M3U3s8EJUm3y4BdtDg4dqyZC4jydpgQfeQdxieVBn4g9FXDrUo7no4KbW11jT5cGo",
-      "ts": 1785339417000
+      "dir": "sell",
+      "amount": 838604.485334,
+      "usd": 9344.048282017002,
+      "trader": "2pqQs8AtSq3prxtHeRA2jCKXWsVghC25k9BMjF2auf55",
+      "txHash": "3Gfp1ApTcM18RnKVPBcentcnBwTNC6LMzi5No7meyCuRburJtW1NHSoaAngTS833Fiz6LaFXrauvAHFDBjKYkBYs",
+      "ts": 1785363088000
+    },
+    {
+      "chain": "solana",
+      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+      "symbol": "Jimothy",
+      "dir": "sell",
+      "amount": 736659.435892,
+      "usd": 8523.823660357139,
+      "trader": "2pqQs8AtSq3prxtHeRA2jCKXWsVghC25k9BMjF2auf55",
+      "txHash": "3JYXgWEVLd5tmfNwTVXR7DJxAtMaxpXEopNiEeoe1fDYm6XRo3Yz5xcT2KGi3kES5YKiVj1xwQC9QqGED4tZsZn",
+      "ts": 1785363066000
     },
     {
       "chain": "solana",
@@ -144,6 +155,17 @@
       "trader": "396t2XktLGLZrgzutqcN9EoUGbKWCZ3qbBwoYUnqk8Zu",
       "txHash": "2Fm1YGEZrauVseQnc9NyBoZDttx3rGBB5vPwCh3kqkN3w5qJXHniDqLDXVpXSeSN3VZgW4C5xTW9hY8aSuY8Z9jQ",
       "ts": 1785348269000
+    },
+    {
+      "chain": "solana",
+      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+      "symbol": "Jimothy",
+      "dir": "sell",
+      "amount": 516097.292682,
+      "usd": 5475.603595446139,
+      "trader": "9UgtSmwPLE5Vmi9DEzApvvD91W95xtfXYAC6s6hCJrht",
+      "txHash": "5eJ5DZ7Ychshg7U4JmULb8x4CRizYnhpt76uLtgr5jgWSDCoDkthF5F4V7qBtYZspZrWjjyk3RQWzBUN6QaRsw26",
+      "ts": 1785363654000
     },
     {
       "chain": "solana",
@@ -391,6 +413,17 @@
       "chain": "solana",
       "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
       "symbol": "Jimothy",
+      "dir": "sell",
+      "amount": 458132.078933,
+      "usd": 4994.243608291062,
+      "trader": "DzTQpsxpTWjVJupkAchisnn8pSjpGAhiza7tVEbzcMLi",
+      "txHash": "5bHfgumDAimXwcgKg1uZeRQN9N9ceu5PYUUCwDWq2r48FeT4zxTRDM4b9ofW53LNSEeXf1DGqyFG8mzXLx3FdBRo",
+      "ts": 1785363587000
+    },
+    {
+      "chain": "solana",
+      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+      "symbol": "Jimothy",
       "dir": "buy",
       "amount": 367699.332438,
       "usd": 4668.0418970604305,
@@ -408,39 +441,6 @@
       "trader": "4d9yezSkeQyXqobyMXQbFzbhSDdYdCyiUD7WTRjG9CiD",
       "txHash": "tNZbZ4Lo6m8f786zQUQZWL4LGv2QBrEXovxzcoS8H3ZXVWiBLis2zjvG2bbzUB9FPpJoXPdN4qN3NTaJsZn7RDn",
       "ts": 1785310218000
-    },
-    {
-      "chain": "solana",
-      "token": "3aqXuwp6HuVXs9vdD9Gpg4dzJaUx443RjK7GXzphpump",
-      "symbol": "FRANK",
-      "dir": "buy",
-      "amount": 8172110.044598,
-      "usd": 4394.736418287446,
-      "trader": "6WJfN1fqrEEMSVKnzZkR4vJTMTxBaqvka2KA7aQHJMfF",
-      "txHash": "5jEQjbG1Qq2qpJooc7byzY9fDED28FdqUi5r3VmkrEPm2jFzRy1zi2n7rCs2pMzdjNCRSSa4A9Kcj3wP3BbS99dq",
-      "ts": 1785335584000
-    },
-    {
-      "chain": "solana",
-      "token": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
-      "symbol": "Fauci",
-      "dir": "sell",
-      "amount": 3651516.679228,
-      "usd": 4314.844374391834,
-      "trader": "4biJRwqRDN7k8zYg2VfpmexRyBgroz6VTo1DvNmDScwH",
-      "txHash": "3zhEiXan9MVMfKHpybKjdZDg6N7fi1eTzcr5Js3YELV3oMdEc1HM6JrggFGRGk2ewLvBznTizKzAEviXQ3wSSwAi",
-      "ts": 1785352998000
-    },
-    {
-      "chain": "solana",
-      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
-      "symbol": "Jimothy",
-      "dir": "sell",
-      "amount": 323621.967961,
-      "usd": 4268.893611568822,
-      "trader": "4AVWxRpkLao5i2NnPNQJZtTLR7FCz7zRMX9aqhhmo5pm",
-      "txHash": "4ZBsjuDpPWpCvNLCmH7DfWtA6Ub464tyxmwMYN2beHtdFBcfDDS4RNZL5PbtgGBJ2DtL36yAxzMqPDVgtqo2X4MH",
-      "ts": 1785351818000
     }
   ]
 }
