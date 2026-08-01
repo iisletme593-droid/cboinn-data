@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:56:38.104Z",
+  "updatedAt": "2026-08-01T21:58:44.767Z",
   "count": 40,
   "whales": [
     {
@@ -48,17 +48,6 @@
     },
     {
       "chain": "solana",
-      "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-      "symbol": "CATE",
-      "dir": "buy",
-      "amount": 474719.892852,
-      "usd": 6796.884097857762,
-      "trader": "AXmmPpuBCST3CQeFMgFnS5Ma9utYErejuxM98GGS2Wvh",
-      "txHash": "3M7rQ4UbE3aeqCzT18Zq8HMAr71bmMDdSNYmVJ2xnHvma3t4VWJ6HLkpmk8Tvrtjhyg1UKRtSB2y7zaSU3HbYrF6",
-      "ts": 1785608413000
-    },
-    {
-      "chain": "solana",
       "token": "8Byg9wi43TNzgJpYta6UXxPz3LPe8v6ZwvmWWoWQpump",
       "symbol": "BRICK",
       "dir": "sell",
@@ -89,17 +78,6 @@
       "trader": "2vUQNrkQnxQJ4Ya4DwQv2yVSDJJmJSBvmoANayeKnUuk",
       "txHash": "67EWNM9k5he6H9ygDoLgeFuJbRUuCrU6HdWoF1aVpZJi7nVf1mPM8wr9Fremmts5XiUEeQN8y6LXF4CVCChB7fym",
       "ts": 1785594536000
-    },
-    {
-      "chain": "solana",
-      "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-      "symbol": "CATE",
-      "dir": "buy",
-      "amount": 495071.715029,
-      "usd": 6541.819525953239,
-      "trader": "Dckns5BEEo1Yzz73Yz3khWrtvoZ2mt7LWYgFRHFHim3H",
-      "txHash": "4v1w2vF7hWiekDjjz1dg6sbjfHYLioy3egfN34CqabdzsWinfnzkCxXr9479vtkXmBztaXppYNc7kPbaxN1Q2DcF",
-      "ts": 1785608061000
     },
     {
       "chain": "solana",
@@ -323,17 +301,6 @@
     },
     {
       "chain": "solana",
-      "token": "2NSHQefnzYtgNayCbbSPKSJgypi7dUf4QD4MhyvYUvxD",
-      "symbol": "MySpace",
-      "dir": "sell",
-      "amount": 16521228.781363,
-      "usd": 4816.213764027419,
-      "trader": "CNZZeVLKb9iLVTJN3CM5Gms9ngHYgQAQJWjW8kAzJqxK",
-      "txHash": "s2NkQen6A2W2d1QuWdjnTyBVVnocbqtZiNftvd2FYZ2vXTuQB1Kg5Sr5iyGZ5GJoekuU3nYzGK2GbBhFbxyiwp3",
-      "ts": 1785534775000
-    },
-    {
-      "chain": "solana",
       "token": "EV169nnxWHQGvDFiz999BUt8XDpcRLmwqkciytRQGFg2",
       "symbol": "CONTRA",
       "dir": "sell",
@@ -400,6 +367,17 @@
     },
     {
       "chain": "solana",
+      "token": "8izw4XNQk4RuJtH88wc1EKQ4RLqGiUqKXZUTS51Apump",
+      "symbol": ":p",
+      "dir": "sell",
+      "amount": 50000000,
+      "usd": 4486.746717239656,
+      "trader": "6h4Mk1hhuQpUxSKZaSEX6RC23C77Bpi3ZvWmdLQkEMyv",
+      "txHash": "3EzwSBLhebJB3HDWMKU9sRBWhetqDEw7SdfJmE7L7PoHvpgJTuEsqmikoph23fcs5ZsPVXseGmdn3bHHH3cXbPQe",
+      "ts": 1785564692000
+    },
+    {
+      "chain": "solana",
       "token": "8Byg9wi43TNzgJpYta6UXxPz3LPe8v6ZwvmWWoWQpump",
       "symbol": "BRICK",
       "dir": "buy",
@@ -433,14 +411,36 @@
     },
     {
       "chain": "solana",
-      "token": "2NSHQefnzYtgNayCbbSPKSJgypi7dUf4QD4MhyvYUvxD",
-      "symbol": "MySpace",
+      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+      "symbol": "Jimothy",
       "dir": "sell",
-      "amount": 14178454.586839,
-      "usd": 4330.784803890838,
-      "trader": "47uxe3VmhQgE29FHZd3mx47E3Koj3YRhUJUgLUG9EqRJ",
-      "txHash": "5NaFK2Ab9DEYot4qoZAHTJFWUrLKyzgEZFQBKk1iCVeVFpnJ31XJoaeR4nc5tt4AhhanGst7eMxyXqNGzxGWdLQF",
-      "ts": 1785537167000
+      "amount": 550638.285646,
+      "usd": 4318.1450961238015,
+      "trader": "7TDiysJcmHRNKnqCSY5rLnuThgxNnorcYR3GBoDYEQwW",
+      "txHash": "1gy5ZMze8FzdZNH23sDtyzgTeevPzVtjoU4JnrnDMjWGoNm7hWDjcEaVmvQ3bfL113GwMwLm4VnnemsnoTou7z3",
+      "ts": 1785606297000
+    },
+    {
+      "chain": "solana",
+      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+      "symbol": "Jimothy",
+      "dir": "sell",
+      "amount": 540800,
+      "usd": 4302.369005496757,
+      "trader": "74vQ4113zBCoyv4xNT4XaCuMWVRsJaJDpp8xUX7iSd7C",
+      "txHash": "3p7VsaqtYfeVUa6SrWVZQgFq9A7nMwTFN7mnfdbVG7dca1Yq6EjwmcLU8JbYT3WjQbGnSthaRTsFCWpPbkRD3Kp5",
+      "ts": 1785604677000
+    },
+    {
+      "chain": "solana",
+      "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+      "symbol": "CATE",
+      "dir": "sell",
+      "amount": 344200.259605,
+      "usd": 4274.364378439078,
+      "trader": "7TDiysJcmHRNKnqCSY5rLnuThgxNnorcYR3GBoDYEQwW",
+      "txHash": "3pYzvRiGCe1YzBsqAnySMdNJzM3s6wYa9XWeq8CjHbACK8XcoTWPPuJdbje58iSDwnX6jedBnATN5H3cdAWKfuZD",
+      "ts": 1785612736000
     }
   ]
 }
