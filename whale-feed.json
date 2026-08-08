@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:59:00.013Z",
+  "updatedAt": "2026-08-08T23:36:47.682Z",
   "count": 40,
   "whales": [
     {
@@ -210,6 +210,17 @@
       "trader": "EuTuU9QDYMApNuxDxhhLPgY77YGtzm11aH1FrpZLabTY",
       "txHash": "3rJdF7j3BgpKPWwuAjrGErfNfKonWfd3vfQWh9VGNPpvajpoHAFzDDB7h6LkPmuAvwprJLNbGUkoRMh3Rsv1Ro1n",
       "ts": 1786226495000
+    },
+    {
+      "chain": "solana",
+      "token": "A13oRB9FFaiUjfi6LdCg6p9ka1u8SfGkUFs4SKvPpump",
+      "symbol": "TOAD",
+      "dir": "buy",
+      "amount": 484229.224651,
+      "usd": 6510.104806254826,
+      "trader": "BHEcVx8xW9DxkcH5pqCNddBGhnTLdgst6KYDP7Swcgtf",
+      "txHash": "3pBcp7V5hdSqoV5vSwFAW8A2MHGZfG7HT6tUaTpN8SRUNzfoyTaV4WWRdnj87aXJ4PEuxQP6KrmqSpCCKXnNvuGV",
+      "ts": 1786230835000
     },
     {
       "chain": "solana",
@@ -430,17 +441,6 @@
       "trader": "7vScVaPSviNMHqj3dxzJgi3vysxxj8nnZ2QGYma5x36d",
       "txHash": "2xybGe4DeEGTyn9NHrX8KNohTLsKayjGF7uDR6H5RhGqyVkUZsC73iiCvxFktRGyjqLnVrvnJL6fdm6pdqbmXWFY",
       "ts": 1786219741000
-    },
-    {
-      "chain": "solana",
-      "token": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
-      "symbol": "Jimothy",
-      "dir": "buy",
-      "amount": 406053.44488,
-      "usd": 5299.5556832441125,
-      "trader": "4yoi4kKJJuceBe8Zv3abNZnox4W3SoBh2zfuJ4JfH9Jr",
-      "txHash": "5hEoDYhoTMTcLhK2CmSpxJnyGkXV9WyJAmsGNg4RNfDevJR8h7QbjaCw2C2oKhSaM2ZYSqg7u8tGk4XmECzSawNP",
-      "ts": 1786227352000
     }
   ]
 }
