@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:57:24.824Z",
+  "updatedAt": "2026-08-15T19:59:50.614Z",
   "count": 40,
   "whales": [
     {
@@ -61,12 +61,12 @@
       "chain": "solana",
       "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
       "symbol": "ANSEM",
-      "dir": "sell",
-      "amount": 62238,
-      "usd": 15508.987806737117,
-      "trader": "XdCNGUasA5nMPhgj59yMF4fAyHGcnc4kYsjLwx8xPRt",
-      "txHash": "5aEUjB95iskYi7GeqnrJZRRZLRVMtxV4vyVsJPZEeLNcLQc3VJThUVvNPjRRrJXmbQc5FyfQChTL8yJrPzWP9Y8P",
-      "ts": 1786793173000
+      "dir": "buy",
+      "amount": 61330.290709,
+      "usd": 15604.952979979225,
+      "trader": "9geKvNSAoYiRvQnqYZAjMQm7yvyCrZjGqYJP1gbKBr9z",
+      "txHash": "5EahoT3nfsZGJ9dLN5yrqtv6c3d9cgmWaoi49pMU5jpbnnT5rcZKFSApapbepYpZTq2srsoaHcZTUBt6t3nTrYnC",
+      "ts": 1786823514000
     },
     {
       "chain": "solana",
@@ -155,6 +155,17 @@
       "trader": "4XciPmMbUfY4Phj9Adfnc8mbFrKL5AjgNswkLpn4juLK",
       "txHash": "3w7LWTChTqKt9c8NdJLHxiAiTFgFppCM5iGe8AURKzySGQ3WdMRTuPfQxFTfPpA46o5BWqTS8erhdrCYk4D4cTks",
       "ts": 1786807737000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 38479.257936,
+      "usd": 9805.815661716582,
+      "trader": "3deNuLsJZJT1tukAYpATYARTy79UDaiMUdQ8vrzi8m3z",
+      "txHash": "62qc1fUQHinJLAnmKSH2AVooLyJCwwkh73xBZgvvYu86y2h7daEsPwH8rztKnBMe41shtDu3Lw3EaiBZ6vTWEUiV",
+      "ts": 1786823558000
     },
     {
       "chain": "solana",
@@ -364,17 +375,6 @@
       "trader": "AVj2oCUSYxFH7aSA4rfphptNCBqWBmtvqjt9aWyeGTgA",
       "txHash": "31WSWueMgddsB9jNmHYf4EqaSvup7KuQvH7iR3CQhWwV4228d2kDBi86YHUeTaQCJvyrfLMW1T7p2cauFf7q4xxV",
       "ts": 1786811839000
-    },
-    {
-      "chain": "solana",
-      "token": "EkcTa8n14fXcHdfvZqCg72cTCutJnnKb19vcHwKTpump",
-      "symbol": "Qenis",
-      "dir": "sell",
-      "amount": 3135779.967955,
-      "usd": 6223.087020729237,
-      "trader": "6btcCbEdYnCUyuzV3JEMDpw9YbbF1tPFzNSN2Sfwg5eT",
-      "txHash": "5BsmfvEfg45AtkGAdeqT9CZZGPDepUFVdn6xswJiMyBQc2A1V412s1qVcFLDKcmsxJ1Ho6EbPsWBv9aUmKvstAmD",
-      "ts": 1786801245000
     },
     {
       "chain": "solana",
