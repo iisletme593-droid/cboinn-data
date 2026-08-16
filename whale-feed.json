@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T03:54:22.848Z",
+  "updatedAt": "2026-08-16T05:05:50.053Z",
   "count": 40,
   "whales": [
     {
@@ -293,11 +293,11 @@
       "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
       "symbol": "CATE",
       "dir": "sell",
-      "amount": 445595.030237,
-      "usd": 7829.092257665811,
-      "trader": "7rSdtnbCWgZhcWmCrqm12n6oh3DM8xK4WyJmc4RyVfFd",
-      "txHash": "26SscP9Dxw12eKBBhLFq2z1TYecbB7Nmc1xrxmfkSPKudNso1yhuSdDyUdSmD4vHh3wBYN6ZJvzRCvaiAFE5Svrj",
-      "ts": 1786812405000
+      "amount": 458598.623481,
+      "usd": 7784.006397998407,
+      "trader": "7JCe3GHwkEr3feHgtLXnmuJ1yB3A7coSeyynxTBgdG8k",
+      "txHash": "7dw6kpDJnJqfsUrsaw1ZAEVusB7AYUeMtRArP9eEnbWGxveQxwus8okdoQLdUNCm7ZmrGUc3iCGA8ZfuHFdVN8b",
+      "ts": 1786854390000
     },
     {
       "chain": "solana",
