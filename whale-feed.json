@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-16T05:05:50.053Z",
+  "updatedAt": "2026-08-16T05:42:57.724Z",
   "count": 40,
   "whales": [
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "sell",
+      "amount": 96680.446324,
+      "usd": 22481.88055302297,
+      "trader": "FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT",
+      "txHash": "4P6g4SDXFqU2iKj8KdbGock3bTLiopo2KFqj116YoTf8Z94Y181yHCKFVYcuzcNMeFDLHpS6x24toMuJPKSEbqY6",
+      "ts": 1786858360000
+    },
     {
       "chain": "solana",
       "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
@@ -67,6 +78,17 @@
       "trader": "H4PKbK9ohNcDvFcAs2gGHqRzKdQWRLJ1jCSjgdJDbj7r",
       "txHash": "476Q7z57Uc8MocZu4SUUN5X7UZPbSyiy5GMi7cs5D4qat81mcJpucwvmK5EAHjHVPSBvFQSd6CHuSFdsvaRTnRUX",
       "ts": 1786828258000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 62437.81914,
+      "usd": 14489.147557071658,
+      "trader": "MRiYA4oN3158fCV8evhuCofrDzbHyYvYnGZUDJvoCsa",
+      "txHash": "3eUBoPrhtxZjUWCDudcGebLsQmxgJU7TtkWBJfBpRq7SY3E7tbjbrzSZaXmBRr8R2QG9gz36KnwbmzKubHg24fHp",
+      "ts": 1786858360000
     },
     {
       "chain": "solana",
@@ -419,28 +441,6 @@
       "trader": "7dGrdJRYtsNR8UYxZ3TnifXGjGc9eRYLq9sELwYpuuUu",
       "txHash": "314cLspgGuNZnNFKfS337pyESW8GCGxeZX2CPqqLn3PkzZSs3FuF68GWXbmc6iZqnzcGgdkTkx9sQKvz7pwz22Ch",
       "ts": 1786829382000
-    },
-    {
-      "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "buy",
-      "amount": 28222.181501,
-      "usd": 6828.996124454111,
-      "trader": "B5uiLDYTqSZyDCDFR2EPfvaPR3XMxo3iqoT3vd6TF5DQ",
-      "txHash": "63rKMpo3MsQoNdvRCo9EJtaZCnHrLCswcv6Z54gDFZTmxVDCmkVuZGcWckPmfQky1E2SDq3BeasFNDQNDn995fwU",
-      "ts": 1786815913000
-    },
-    {
-      "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "buy",
-      "amount": 26720.023541,
-      "usd": 6724.392210196848,
-      "trader": "6FjjzVJ4zngmz4JparGQjn4XR9NLbfySJeMoQqdq7zER",
-      "txHash": "2ZfvgZ8UerbuLV5NEttcnUGezkAMzFw7YknJeQsbkZpi3QnsF4ajJriVNy2bRZGzQqdjbp7B9XJWHkaZ6uwJ72Mc",
-      "ts": 1786801229000
     }
   ]
 }
