@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:22:49.452Z",
+  "updatedAt": "2026-08-16T17:44:42.071Z",
   "count": 40,
   "whales": [
     {
@@ -48,6 +48,17 @@
     },
     {
       "chain": "solana",
+      "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+      "symbol": "CATE",
+      "dir": "sell",
+      "amount": 535187.190367,
+      "usd": 9151.2022998604,
+      "trader": "B8wZgcJAMuZs1NR6vaKhcQsGdPp7cpaPoh4GTquMCTdW",
+      "txHash": "3q4dgzJRvZEvzGzj1oh7vvvMTZVDtwc2FaUBgDSQTJkZtY1KE2UDti78jS9UMPy3zYTgDWV9X8kBLiRU3RsWHE8L",
+      "ts": 1786898767000
+    },
+    {
+      "chain": "solana",
       "token": "4xMegMRMd2TFQEXxv39vtMP1r5fFVuA7VcaSmAhLpump",
       "symbol": "GUNICORN",
       "dir": "sell",
@@ -78,17 +89,6 @@
       "trader": "H4PKbK9ohNcDvFcAs2gGHqRzKdQWRLJ1jCSjgdJDbj7r",
       "txHash": "4PBGuChwhMbEfwoi8YTZR6JscrAexRJwayesMma24fWu8fq6aeYK9K2pAVFuchLtZkvddhJrKvhCks8faNNBPQ9A",
       "ts": 1786828978000
-    },
-    {
-      "chain": "solana",
-      "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-      "symbol": "CATE",
-      "dir": "sell",
-      "amount": 463874.027463,
-      "usd": 8261.478625212467,
-      "trader": "8y5X2HH9dpQ71q2sg7phH4oVoDqNDqzsqYXjaTcAbbeA",
-      "txHash": "3ZGz6BZZB4brjs6Xj7Ti1ZgC3GuqxhkPM2sXi1iiQz7c7RKod7aEiVf62UamKyr9MR22p9xvhngejomVruPHi2Yz",
-      "ts": 1786850293000
     },
     {
       "chain": "solana",
