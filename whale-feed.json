@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:51:50.775Z",
+  "updatedAt": "2026-08-18T05:28:13.347Z",
   "count": 40,
   "whales": [
     {
@@ -367,17 +367,6 @@
     },
     {
       "chain": "solana",
-      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-      "symbol": "ANSEM",
-      "dir": "sell",
-      "amount": 24369.100394,
-      "usd": 6773.527627862885,
-      "trader": "5GZ5o5BwWMqXX5vmAP74Hx2JtB3Xicbvcnjd71JsGXSw",
-      "txHash": "22bWRvTMHoAe5KPJefd1iSFMYZ6FkQcnhrRW3Xa4WdNFbRyU2kKqcRqLNR3p9RVXmzBTzrQwmFYbhzNGT9c2Zbi7",
-      "ts": 1787002993000
-    },
-    {
-      "chain": "solana",
       "token": "9sfCHMLWSVy6MD6zr7pR1gD3qbT7C6K1E3dMf2ZBpump",
       "symbol": "LAYOOO",
       "dir": "sell",
@@ -397,6 +386,17 @@
       "trader": "EBJS8fM6cn5BXbLeyLunKVqSyMTsRMjRc1NLE96zc7sb",
       "txHash": "2no354TEw4ozxrk3CBeyyvrd4hMeES4TG35ggEdrvBqYjjeCvuxRBFus1tVv9mJCnXLfdtgESB4ZZd3eHxBfSavZ",
       "ts": 1787008213000
+    },
+    {
+      "chain": "solana",
+      "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "symbol": "ANSEM",
+      "dir": "buy",
+      "amount": 24914.578282,
+      "usd": 6554.7887795681045,
+      "trader": "7ng4w38rkSMD3dbe8j4F34Rd7o4AAqYNyDAMWC9NRsjo",
+      "txHash": "qTc6nHAt4a7emBKUAjCmYTSRKBmQUFe7g49GD94ubucLzfsbZCDvnkMpbmvCUMdatGQYhVgRZKJJ8TjWXcKwRQ9",
+      "ts": 1787029055000
     },
     {
       "chain": "solana",
