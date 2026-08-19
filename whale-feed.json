@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-19T08:16:02.103Z",
+  "updatedAt": "2026-08-19T09:04:02.064Z",
   "count": 40,
   "whales": [
+    {
+      "chain": "solana",
+      "token": "zj1jpp7QMveWHLs61vL9KMZf254KvW7j4AAmBF8ry2k",
+      "symbol": "BULLSHIT",
+      "dir": "sell",
+      "amount": 6772553.860207,
+      "usd": 12085.179636467932,
+      "trader": "AMWufthLcSyHQXiwjcCyxEsSPhXE5tcvZUgpPdtuaPaE",
+      "txHash": "37ShAqSdXdnnSDHzkrygNBs2UYnDPwWKVvekS3CCXxHZRstQorc4BVy1Q1EHejvusp3D2xuohL6QV4q8mXhbpD73",
+      "ts": 1787130192000
+    },
     {
       "chain": "solana",
       "token": "7g2xyrq9Fk1TvFiqqcmLJAQ9jAtfHobmrdzzM9Dp2SpV",
@@ -81,6 +92,28 @@
     },
     {
       "chain": "solana",
+      "token": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
+      "symbol": "CYBERLEEK",
+      "dir": "sell",
+      "amount": 4177630.8978805,
+      "usd": 6337.052656243805,
+      "trader": "HCoUkq7iHecWTVCAVPfH9fBSGbZrgrE2jbHrE1rnCpUV",
+      "txHash": "3W71S9DJkyKvibstS39zY7QQawsYpzydXo3KnJDSV2HSGTyhsAZkbYVJiU4reGwAEarmtdJnvqC1k2KmYA1KnQuP",
+      "ts": 1787128564000
+    },
+    {
+      "chain": "solana",
+      "token": "zj1jpp7QMveWHLs61vL9KMZf254KvW7j4AAmBF8ry2k",
+      "symbol": "BULLSHIT",
+      "dir": "buy",
+      "amount": 3710139.416547,
+      "usd": 6147.114481021015,
+      "trader": "MRiYA4oN3158fCV8evhuCofrDzbHyYvYnGZUDJvoCsa",
+      "txHash": "2ttKje3o9tzTbEUD2YcUnQ2ciaSSCL2vofM56vjv2r9tkeXFQ7HThPRADQwL8SPxDeF95dVUdq2oJhnKCjdtUcKe",
+      "ts": 1787130192000
+    },
+    {
+      "chain": "solana",
       "token": "DLYQBXkRo43Ct96fd9Cr7y5tZP5yQKUBLMTZU92epump",
       "symbol": "67coin",
       "dir": "sell",
@@ -155,17 +188,6 @@
       "trader": "MRiYA4oN3158fCV8evhuCofrDzbHyYvYnGZUDJvoCsa",
       "txHash": "34V9JgddtaU7qHdEGadG2Cw7miCbsAK4t3snkMwJq9SWMX8865SWVSj5wxwCbWT8Tr9YnH5JR4hiumuMqGcTnMT8",
       "ts": 1787107924000
-    },
-    {
-      "chain": "solana",
-      "token": "zj1jpp7QMveWHLs61vL9KMZf254KvW7j4AAmBF8ry2k",
-      "symbol": "BULLSHIT",
-      "dir": "buy",
-      "amount": 2159151.020241,
-      "usd": 5511.6417328100615,
-      "trader": "4QSTvEXtqB8RWq6tr6BwJQ7fXQEodF5sPC4RxCL6KHFt",
-      "txHash": "2xwCTAYk6kLCVMRGfziPRELPQaYwJC7iiMG4TqChirjXM3P6A8p7gDh67BTKbabLMfosWMLX3AJwH9j4h6TJNB8s",
-      "ts": 1787101207000
     },
     {
       "chain": "solana",
@@ -419,28 +441,6 @@
       "trader": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
       "txHash": "5y4FRyDRR417XNTn3u8dkjhp7xLC1JEBb39cyPDwbk9ait6vudd3hgo9Dfv4ZRr9jDpYArr5wLZU8gSTw2wPXrmT",
       "ts": 1787101867000
-    },
-    {
-      "chain": "solana",
-      "token": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
-      "symbol": "CYBERLEEK",
-      "dir": "buy",
-      "amount": 2011109.86445384,
-      "usd": 4183.119454846207,
-      "trader": "DaCAZhq7Ka6vpTr5Xh9y5BSawJaAeoxaER1czocKQ3Xr",
-      "txHash": "3KjL13MC9VxRQs4u6KGeHPxRNygdKJBESj9EscWNN1nLiKZr1yEwepzUiAjpfdfATXuMsjKpki32hK3QViFe2Go1",
-      "ts": 1787103753000
-    },
-    {
-      "chain": "solana",
-      "token": "DLYQBXkRo43Ct96fd9Cr7y5tZP5yQKUBLMTZU92epump",
-      "symbol": "67coin",
-      "dir": "sell",
-      "amount": 6255126.692311,
-      "usd": 4058.06370085258,
-      "trader": "FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT",
-      "txHash": "49ddMN7AqLs2RNhrK3u6ViXiGqeTBPPRiJpQcMxrLnjV3CsMVdf9Z8JvjgMTJ5Twdf9bV167XYWdGVdxCRnsE549",
-      "ts": 1787060932000
     }
   ]
 }
