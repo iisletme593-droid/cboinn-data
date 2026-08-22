@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-22T06:37:20.929Z",
+  "updatedAt": "2026-08-22T07:18:45.370Z",
   "count": 40,
   "whales": [
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "sell",
+      "amount": 67216.92689,
+      "usd": 192322.37902258273,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "35DjMahQQAhAjFh9zjRJ1KjPNjVy2B1suhuz5dFT9hpEYrZ6A6NcWenvhcuodYYUsTzmdHhRcaorU6x7bEYivCv5",
+      "ts": 1787382703000
+    },
     {
       "chain": "solana",
       "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
@@ -48,36 +59,14 @@
     },
     {
       "chain": "solana",
-      "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-      "symbol": "PUMP",
-      "dir": "sell",
-      "amount": 15862991.649296,
-      "usd": 68430.51339069137,
-      "trader": "BwpQ7Erv2vgdmHKuGNsC6m6satzt4yD4BEfXJPxGzuWW",
-      "txHash": "LFnSmzXqfF64svGc2LJtf1XiJtY1cn2mqCiZYNTg42X6zfZPeixK3vioF737nT3gsJFEb5wd6NsfuKkcv27YeQD",
-      "ts": 1787379728000
-    },
-    {
-      "chain": "solana",
-      "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-      "symbol": "CATE",
-      "dir": "sell",
-      "amount": 1212041.145945,
-      "usd": 64261.00049376932,
-      "trader": "3SdVtYPdnQw2b8WSE2T1VeexAqkDjbTyeSZ8Pzs6bgou",
-      "txHash": "3DfXCbHfcp9yCiWJgnEY8EXoj5nM7ZHWqAbX6965iSomRCtvaj6htL7VWMrb1rt8GVUwGyezvUoUiFggpPnF3grd",
-      "ts": 1787375693000
-    },
-    {
-      "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 16879.881642,
-      "usd": 49382.948981405345,
+      "dir": "sell",
+      "amount": 17839.952483,
+      "usd": 50721.37899606279,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "2zibAzMmfPcsezRvRhpwVox1KGSg4qM1ts3vo4jR8KJHT1gFw8znHpi6zwVCrgEHuufRTwA4Npv67BR58DxjcCVr",
-      "ts": 1787380322000
+      "txHash": "12A6bcbwynayhAdiVacTKijhSg5VeqzxnfhhZyCkuanEBeGsH245DoUPqwqW67VviQiv7jXMkPGh3NiYxGR7VzTe",
+      "ts": 1787382703000
     },
     {
       "chain": "solana",
@@ -95,66 +84,44 @@
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 16011.223798,
-      "usd": 46746.75169642881,
+      "amount": 15194.154763,
+      "usd": 45479.12058251626,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "43SFUYzAViyBumXqRGSza5jKC5Wgxc9stM1Kxjtd78qJEfZdRC4kQShPkzDJmeXdaY5GXN2aJCKQmt8frz84Dgdw",
-      "ts": 1787380520000
+      "txHash": "65tTU2qdPEhquyekDrJbKTrmcboVeYqoRJw42594KSKe7N5qu3oFdceNHaPTxH8GnZ3qeFxPPBCsrUsaTbCNGb5",
+      "ts": 1787382425000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 14962.566124,
+      "usd": 43571.95448522938,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "5MoYTeyi5pLNua3BrqzWr8dfxmfJJQ6nLExCfD16915ZpAVNoHjV9yXaTiaKBscEQjqRz2b61Vfmb9fMr6FmUYUG",
+      "ts": 1787382736000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 14132.283254,
-      "usd": 41464.92116599415,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "4fZGnxSimJGvYDxTdzWTXLybvAB1X2cZcT8wGZqisoyPQUGx1j3HfTcSf8tZAnLamAefoyDtAUb1scqpXXRBvr4B",
-      "ts": 1787380400000
+      "amount": 13878.351099,
+      "usd": 40108.02629793417,
+      "trader": "FkaLnX17cXZGyeu3kZGdHCNdFMJJzBrPPYVvd18B3MZp",
+      "txHash": "yT1aGTFLWhCFiEFz4QBrRsdv1ZDYUTUCG6AXiFpGXUqjftcFqrrHtQRBMKKx4fLfuwUjvHVUpr7EAaepQf2kaet",
+      "ts": 1787382703000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 13928.474326,
-      "usd": 41221.72987587174,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "2XC18oPBr5Je9gW3DgqCPjHwEcKLFYC15D8NhYPXPkksXqDffr5r31L2zDoPLtPyYRbnm1VN6BNXnhQJoqhGBcCW",
-      "ts": 1787380125000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 13603.728519,
-      "usd": 39999.504862935995,
+      "amount": 13714.105493,
+      "usd": 40002.009014675474,
       "trader": "FkaLnX17cXZGyeu3kZGdHCNdFMJJzBrPPYVvd18B3MZp",
-      "txHash": "Guk8nrW3WzzNyuTe7NmwuBogpSZ6N8RMsvK3drqFJLcpwbswX19Ct67kznyF1WD4bF8qK8BYXWdxKrwV8sKcGnf",
-      "ts": 1787380395000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 13603.540775,
-      "usd": 39999.07958083478,
-      "trader": "FkaLnX17cXZGyeu3kZGdHCNdFMJJzBrPPYVvd18B3MZp",
-      "txHash": "A9uC5634R14WSh7GTaBqMnLuEmT4Rs9dt4a8w5D4ggtL2wp1wGEySHRWZiXfSG9rMjEwjJ2FNRH8wuJunCPjj5o",
-      "ts": 1787380543000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 13534.057426,
-      "usd": 39998.237086074056,
-      "trader": "FkaLnX17cXZGyeu3kZGdHCNdFMJJzBrPPYVvd18B3MZp",
-      "txHash": "ER3wqK5jTJUyfx2ejVes745pQr7KjV72SzRd2zATS8cWsrTAYtnRofTmLtbNiRXqB3oCDGbabmrbXSvtyNhskmL",
-      "ts": 1787380099000
+      "txHash": "3GSjF9H5eU6kexaxKZrbGvieVXgfsPnZyFicJghhSGKDAHYV2Ei3WW4W2BMqoTHuki64UENXrgEXn1A7qih661tg",
+      "ts": 1787382690000
     },
     {
       "chain": "solana",
@@ -191,17 +158,6 @@
     },
     {
       "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 12529.406945,
-      "usd": 36841.20461721506,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "5VvUEAmjNbSh9beG5d2ebMLYtLSMXDsGgqrm3LNqTMe9vCV2MEVcdjzchV9zN6u656ASvWmUEktPdcVc7of5HAWw",
-      "ts": 1787380415000
-    },
-    {
-      "chain": "solana",
       "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
       "symbol": "ANSEM",
       "dir": "buy",
@@ -216,22 +172,55 @@
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "buy",
-      "amount": 12059.576573,
-      "usd": 35820.686478604985,
+      "amount": 12119.332949,
+      "usd": 35461.67897678803,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "2KenPSwNT3aQj6D2Atm189s6Qfee1jffGhmHsjje5ZjYKevdSCZ2N7nh6K38L6kWpBjZZd5Vkt2ARme7Y4NYdVvc",
-      "ts": 1787380110000
+      "txHash": "keTUtf8qYbuic7zTpfiXditGUKKcuaKFXN8d3HaRAGDyuBH7JLguVHW3WH4s2MeHeMN1bnGBBeYAu3EyFJMF5bn",
+      "ts": 1787382855000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 11314.849115,
-      "usd": 33197.81211316772,
+      "amount": 11236.241373,
+      "usd": 32958.940378434236,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "39Hk1uao2kxYPLcsjxoxKvvzpvQEpHyXXcYPK6md9tnw8svPkvHj71vgYEnSvk7Y9xS4aoQx5F1i99eAGXxdTxRe",
-      "ts": 1787380272000
+      "txHash": "5jBkdN6wpiuQZaBd1DtE9BQ8vkp89CmzDdeJn2v2hZj9o2Kpaus1ckamk1FqTj5cJktxQayAMxq7DQpj594nJJdf",
+      "ts": 1787382607000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 11256.83725,
+      "usd": 32938.4600057961,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "2rqbtvNvQyrKPpUvhc2yyTssRDCk5DivV9g4ZFcQbPCn2pwKaXki17mG8t5Dgkhu9iML7H2TGXwXpcCbdTW6ECa8",
+      "ts": 1787383080000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 11287.943101,
+      "usd": 32249.696785007814,
+      "trader": "Bdp6B7T7Umg2ueFW7annVF8EHB9jrXw9ABSEKWxH5xXm",
+      "txHash": "5gd9nBYxQeH15QwPqHW1MgxMPYTqhtsCFueo7GoU6SAS2SVVS1ckSJRkTNZVPzn4qN89cSvitGbf9GbUXCVty61Z",
+      "ts": 1787382703000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "sell",
+      "amount": 10953.572079,
+      "usd": 32126.453724542414,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "Sks2FMe32F8bZKZNWB734L5nKokRdnCj8eMELj1Q9hvmThqrbvh77B2K7wV9mEEwAXNvMB48ee7T2pKDi1J1wEv",
+      "ts": 1787382662000
     },
     {
       "chain": "solana",
@@ -249,110 +238,66 @@
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "buy",
-      "amount": 10618.492477,
-      "usd": 31379.92490422296,
+      "amount": 10761.956853,
+      "usd": 31653.17092698273,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "3NwEMo3G215HukXYXxeCU4zPciWzWmawL3417h5JNikVEDiDZFhTRxzYb24ijGg85igrdZL3KduZXo1WFkimMAGT",
-      "ts": 1787380260000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 10337.501602,
-      "usd": 30868.766519481826,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "2bxvsAVXa28FoAZtDc8hLfwF6njrbT8Z2kr3tVRcEf9L5EBMx2TSMe9ssVPD3nC5jbbExJDHazoBNL9ikLVV9HJh",
-      "ts": 1787380584000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 10385.060469,
-      "usd": 30536.044962639287,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "3HtYaveAnbAjz6eRqaWrpUmw6V8k3d5vNA617tBy5Z8vYqSmxvj3b2fV5UAsnoZPBSnzfvYc8XwL23qYpJ4X7vYQ",
-      "ts": 1787380430000
+      "txHash": "JcNRNBeWcf6xkiPmx2BJpYxNdLiGHGSTvCewAJvJHSWeNLoE4g5hh9q4Qv9kP5tFqoM1aisMgTg5P4VeqWZdBiU",
+      "ts": 1787382546000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 10020.284548,
-      "usd": 29399.334385476322,
+      "amount": 10481.374716,
+      "usd": 31058.460862534066,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "5xYt2azRR6p3414F4kLRNb68qVckUpuegJbxyPpQcQea1RS7HWXua9xrBKsBCjmDmGxidWTAWBJYtAbVhxuwS7p4",
-      "ts": 1787380440000
-    },
-    {
-      "chain": "solana",
-      "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-      "symbol": "PUMP",
-      "dir": "buy",
-      "amount": 6792047.708179,
-      "usd": 29357.3243992104,
-      "trader": "7dGrdJRYtsNR8UYxZ3TnifXGjGc9eRYLq9sELwYpuuUu",
-      "txHash": "5hHgjvTJvCukxJC8npzbiuiwdbZNZUo1S1bkmnaSWxpeLQUvCFu7b9RARkkBPw6gciMxR6KiHBN94TWzexGr4ReU",
-      "ts": 1787379728000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 9870.796497,
-      "usd": 29175.30328738243,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "3ZNx1FpN2DwcKWimCg4Ecr6jndfVAnXu7Me48zQdmyX7bokKqL3cTQXqBGVcRBBpBZ4NHzmtqsG7ppEDerLTDw6u",
-      "ts": 1787380250000
-    },
-    {
-      "chain": "solana",
-      "token": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-      "symbol": "PUMP",
-      "dir": "buy",
-      "amount": 6657606.496044,
-      "usd": 29126.61873046968,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "3QvfyBi5UmCxPhMpu4wgm7i21dB2L5TA72byLLu7tEUoF7rKs5uYKWgYWAwxnHXq4UUWRBe8GuC73pw5GEcTryUe",
-      "ts": 1787379262000
-    },
-    {
-      "chain": "solana",
-      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "symbol": "TRUMP",
-      "dir": "buy",
-      "amount": 9897.61614,
-      "usd": 29098.007713351042,
-      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "dGxLp4CGTV8qKVCM2bHCL1ZKdt9xzHZprktkJTWBMhmgsukGfSUXuoVVTzBHNCMwMBcPsNgj5PT5ZSiU2scp7S6",
-      "ts": 1787380500000
+      "txHash": "468HMAkXePZ15SZDX6w854vo74DuTYqrSBvLq4aHZJEL6CqeiULAWYKFRBs3F5bnYDzoREw5JLLWYwmndVAsuGA3",
+      "ts": 1787382541000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 9916.837561,
-      "usd": 29096.18922261064,
+      "amount": 10332.800523,
+      "usd": 30155.3934104446,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "3wov2gSpfgCBYnp6STw2SAiDKJHhnbTKwFAK1wiqzaHKkFCwKwB5rf5D2YS1ZxMr8JXMhRmbgEqckpNn35Kocr3N",
-      "ts": 1787380425000
+      "txHash": "tYusskRtL3avFXrkY59qsPzDFQiDUD3dgoR4G4Qhd1aueHYdYWR5HkggFvnnYo3L3tjev5DnEKHCbSYwrnD1xha",
+      "ts": 1787382700000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 9749.099981,
-      "usd": 28743.635053851693,
+      "amount": 10110.118778,
+      "usd": 30109.059983706207,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "2HJDGYAXenb3JxzK6vWxNjqYBmcyqeYAdeR4LzZigs2CP9gCHZhPLdUjVwoYtzf2WfDPGYisVJNjzbpkC6FvNjTb",
-      "ts": 1787380269000
+      "txHash": "QBxqiv64B4FeuH6jhaCjoACmY6CJioH6V3UrG3ky9bP9ZZYQZKwwGQScAdxpKtXmwEsVHWRTArtWoctGQaiTenf",
+      "ts": 1787382472000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 10392.728211,
+      "usd": 30002.628968932982,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "3EP9koxF6RjMALXZzm9bQxvnv66KGfhaXfJK8QHh8gymtChpjxLY4K4NVvSsHmYQJHSbFYW4h2y6qGsheLQQF9K",
+      "ts": 1787382709000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "sell",
+      "amount": 10022.131168,
+      "usd": 29253.475609495646,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "5Y8Mqm2DfCem8smmGYujhLi8ZwwrEbLKTadphMceGu4JZoi2SUmj7DRL4zt5KAwKzeVqcH7tx6PXWtuvFQcdP145",
+      "ts": 1787383024000
     },
     {
       "chain": "solana",
@@ -370,22 +315,77 @@
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "buy",
-      "amount": 9696.121213,
-      "usd": 28508.59386784074,
+      "amount": 9455.400971,
+      "usd": 28359.053669094905,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "4xJNMa3dL43dzXoTAuMiJj8fyGdfRLHoHNFtN88LtnTvH37pNaDy2atjbuXYWZX3nXxPiKfcPe7P2RgGVEqfLJzb",
-      "ts": 1787380450000
+      "txHash": "3aHWVHPvjrsnr4aTihEMWKU94vpTQRjgRbfNtCzuYAkUDr6dXdiAbZgRo7626taXEnH1STPTRDX3xk5CyQb2AN3i",
+      "ts": 1787382420000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 9500.291248,
+      "usd": 27533.609327829196,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "27ukTUG3zFB36aa1k6PKNGSrhDoxno792cBbSo4wGZkAQQ3a5x3nkGLMe5gDRM5zceF4B73RbSxDx7qPy6jW85Jq",
+      "ts": 1787382715000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 9418.296786,
+      "usd": 27434.528681977194,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "4qyhLZmcnWDggHKQgpTgRbSh2TPSwuRoirm7kJLyXMnH7DHiXEDcXVeiwXXtsEVRnVbaRzguhC2RYuxGrAhng2w3",
+      "ts": 1787382848000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 8844.323816,
-      "usd": 25949.092926258778,
+      "amount": 9054.162411,
+      "usd": 26427.922025049873,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "Mii988LyYo5XJtjUAJSXRQFw7DirSEuZpkZtvDYytXLkTazzkFE6MuuRG3775oPcVNxRwW3wcPrVpfnM4eaaRCQ",
-      "ts": 1787380303000
+      "txHash": "2ZrzEBvPbH7tURJBmFiwUDqbgQpJXGU4faPskc9sEo4qVzaBPJsHCqV4mR9Y95C2Ms3sWbRzSKd4a3CQiBA4nPmW",
+      "ts": 1787382690000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "sell",
+      "amount": 9005.333993,
+      "usd": 26412.464388366105,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "3wjK2cDyFHzQUpi7GXX4XBMfFaGcx9uo9CEv2dGzrhdUWcMFiKZ2EShu6ePpDE1QEox2wC3tetGYz8CALCAMehsj",
+      "ts": 1787382548000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 8940.198502,
+      "usd": 26158.98040119798,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "3qgci1mE5Mn5d3XfA81yX5TtJWJtavHkWq3wZ5DHHPYy77osKzH82tacRX29H9XELgUexVb6LDMMeDUBbFFSdrpD",
+      "ts": 1787382696000
+    },
+    {
+      "chain": "solana",
+      "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "symbol": "TRUMP",
+      "dir": "buy",
+      "amount": 8873.432269,
+      "usd": 26094.328734933926,
+      "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "txHash": "5oTV85GTYZbF3JyDfntprY6Mt5DfrDFv1sChQ81dvL6br35UwZp7kF9NBiMJBmXQ9qPF8ufqW1kgXi2nmjohSGB4",
+      "ts": 1787382906000
     },
     {
       "chain": "solana",
@@ -414,33 +414,33 @@
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "buy",
-      "amount": 8386.07202,
-      "usd": 24658.229761683364,
+      "amount": 8276.762735,
+      "usd": 24824.030130418,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "5xqLyyuEGvqoVYoz9aA8dyPhpqyC3izthGetcxFo9xRDDgN6MgVQXT4qUwawZw6ycNBXzKUvQrArymYXC589hBTa",
-      "ts": 1787380415000
+      "txHash": "4GciQnV68VrRvusLYnQEmx7hDsmNGUSU2eY8XBohK9SncSnnNEZifFB4bwgUdHrZjQYYJgTaFzbKPkJzktS7g5vQ",
+      "ts": 1787382420000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "sell",
-      "amount": 8198.948496,
-      "usd": 23925.212730780462,
+      "amount": 8269.166474,
+      "usd": 24253.299785164356,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "5S3KtFDeGGJs8MoZsie9mr3iyAmhSb6BGvFfqFoHKnVxaryxFYSYKtFqoxrMxK8FF1anUG391n7fG7rWjU6zJtHb",
-      "ts": 1787380342000
+      "txHash": "5THJKSiUCJcGKTK4wWhSvcGGFHhssfCouMFAjv2cRN69YogoB5SXT5SpjzGYdQHKuagQRVsN56EoiHY57wvL2j1n",
+      "ts": 1787382545000
     },
     {
       "chain": "solana",
       "token": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
       "symbol": "TRUMP",
       "dir": "buy",
-      "amount": 7838.256257,
-      "usd": 23282.05457589438,
+      "amount": 7985.898805,
+      "usd": 23486.861005288007,
       "trader": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
-      "txHash": "2ZLnjt5JZzUpTtDbc1oxzskW1rj7oAiHWcHJ1NVRC5VXYRgLzA1ktCq87pLua8utdDTRKBEeqqjyX9A5s7CU24sQ",
-      "ts": 1787380110000
+      "txHash": "3k4xtBWZ3U3pRVkt16EJi1qwKXq7tNgsC7JoTwrnza4ZsRsYxHbmj189exVtWr9fEDGb66ehciz9vMYcqnsnRpFi",
+      "ts": 1787382561000
     }
   ]
 }
