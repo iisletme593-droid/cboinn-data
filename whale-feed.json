@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-09-26T19:23:44.822Z",
+  "updatedAt": "2026-09-26T22:04:51.107Z",
   "count": 40,
   "whales": [
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "buy",
-      "amount": 169796.838037269,
-      "usd": 43857.12062969683,
-      "trader": "AEtL29wgARtujVynpgoDtUMLvM7NmZ6WALcjD2NjU8Dk",
-      "txHash": "5PWhB8R9kTWALVNcKu74ftxkt9MrjEgEsvVXkkr7KkTdkE1GUC25nUQgZCUC48FHusCfNHe9x21zRwnyQtB1rMTk",
-      "ts": 1790434733000
-    },
     {
       "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
@@ -23,6 +12,28 @@
       "trader": "F7RKx69PvdrRoomPWRaWisNLZZ5EMGfDSg4sp7oGR1PB",
       "txHash": "47mEWZs2DsNNDAkYbDidv3KYECRGeCrFXb118Aqer3BEP2MXEmrMdVvAioCHRJHDeEcRJHHY9JNNW5HBY97ZBcrw",
       "ts": 1790444716000
+    },
+    {
+      "chain": "solana",
+      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "symbol": "STONK",
+      "dir": "buy",
+      "amount": 131094.837190811,
+      "usd": 38112.31365066023,
+      "trader": "Fcc49cVkbmidWJCh7wY6x3Ju3nWjFrfcCijMaEgNQuNu",
+      "txHash": "R33RzCZbMXxjEXz7UdfNs1KBonrgLkeBqWyQagLdzLdJJCG91eY9qfqaUM2zDE57F3DNar2KxHiQBQkpnPap4Me",
+      "ts": 1790452006000
+    },
+    {
+      "chain": "solana",
+      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "symbol": "STONK",
+      "dir": "buy",
+      "amount": 126664.483754954,
+      "usd": 36420.02492433588,
+      "trader": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+      "txHash": "3V3iJfyhsEnaSeYKhnFTVMkjZN3TDUdbf1eNVHVkU16JYYuxPh9qy78LDHVfZXyswrRcozYXFy6P5nZco4MSdryB",
+      "ts": 1790451564000
     },
     {
       "chain": "solana",
@@ -40,11 +51,33 @@
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
       "dir": "buy",
+      "amount": 118819.425452064,
+      "usd": 34883.139178546066,
+      "trader": "Fcc49cVkbmidWJCh7wY6x3Ju3nWjFrfcCijMaEgNQuNu",
+      "txHash": "2wCzUTh6eu3ykHC4JMNNNwWJnMqeXtgbhy3y4TVWR7e7tKashXsawvKUJ8D1gwepLMEjy6yPtxVyqHvySh7QKgqd",
+      "ts": 1790452017000
+    },
+    {
+      "chain": "solana",
+      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "symbol": "STONK",
+      "dir": "buy",
       "amount": 117562.333435294,
       "usd": 34052.39224024836,
       "trader": "AEtL29wgARtujVynpgoDtUMLvM7NmZ6WALcjD2NjU8Dk",
       "txHash": "3CCcrjEWQitRV4W53PiRfUMH9e7fwCQXh5Qx8ThL7dKdosWjHAFjWZ2F179vYw1u3P31jg1tLHRmoxjSvMUJLfnR",
       "ts": 1790444434000
+    },
+    {
+      "chain": "solana",
+      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "symbol": "STONK",
+      "dir": "buy",
+      "amount": 117669.744878593,
+      "usd": 33578.836848431805,
+      "trader": "28bcF6diYNzyKvYCHJZTQbzrcF7esZg95eSdj1QC8K4z",
+      "txHash": "D9JrhqHgHkhPm4MwqkXV6QVfEvTYPZn5NnjdqnqZJomFC3JAMwU7VLxFaSBxibXz3v3SAxj7Cwh3T7sc5s7vSr4",
+      "ts": 1790451088000
     },
     {
       "chain": "solana",
@@ -106,17 +139,6 @@
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
       "dir": "buy",
-      "amount": 95020.042091977,
-      "usd": 24944.93389343183,
-      "trader": "DV6bcB61BExU4h9U6SUVSXu5YMTuFqkhvV7o3R6Qj2tv",
-      "txHash": "3PNmxcwYbHXcMdeAAAjmigg51tvWv1SfdtgNjap64Zsp3m49mbHUoTQszVDzPXXxM99jfzVoArmtKGbnUcAa4RZ2",
-      "ts": 1790437251000
-    },
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "buy",
       "amount": 85181.100971433,
       "usd": 23813.602526606548,
       "trader": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
@@ -125,14 +147,36 @@
     },
     {
       "chain": "solana",
+      "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+      "symbol": "PAID",
+      "dir": "sell",
+      "amount": 487262.370778,
+      "usd": 20812.896525233562,
+      "trader": "CpqBZF4V98AFGK9yDXFT2AiX7E3BqkJmhrCJnuxCvv46",
+      "txHash": "5nHdDPhcB5G5tXx82tPJ68HhicQ1LesuNKYn7kUf2mhFNoQ6TERpGoZKSpV95Vm54ZYWL5cFBmsm9wtMEfGk12pi",
+      "ts": 1790454911000
+    },
+    {
+      "chain": "solana",
+      "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+      "symbol": "PAID",
+      "dir": "sell",
+      "amount": 448246.777315,
+      "usd": 19791.70476176851,
+      "trader": "CpqBZF4V98AFGK9yDXFT2AiX7E3BqkJmhrCJnuxCvv46",
+      "txHash": "5Ybf6Qs7Vr2L4ady1b2Yw3v1zyZmbZMuDGwGHixj6Xb4Lyg67P2XscEFC5WxaNgjeWz9pqoubEGudAj5x1qY7vhZ",
+      "ts": 1790460241000
+    },
+    {
+      "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
-      "dir": "buy",
-      "amount": 82722.406882514,
-      "usd": 22006.29340646051,
-      "trader": "L2BZG6UyHTBxjBSXf4PqNhwkfPJPyxuN1EEXJPG8pDC",
-      "txHash": "2rSJUhun72o5sGsS4JAXDThaAtfXjJJfPxLq8wSkhEs1w8Sayu7D9WbWmJepefPFMVhUi2qPfCBf9W9Pn3KU67GF",
-      "ts": 1790439428000
+      "dir": "sell",
+      "amount": 63016.92,
+      "usd": 18423.827961726944,
+      "trader": "3Dn9Y81MVAj5mEheVdwdrHporEHznaMLHq6LN4QfrQS2",
+      "txHash": "3X9MVuK7fBuD9JjuUJvVBLhteyoWNNqpMML1Jsj65WBmKcSVjjwgGr7TXaPtYxjfn8TQbbdDgRXypkc1nnvvnan2",
+      "ts": 1790452540000
     },
     {
       "chain": "solana",
@@ -144,17 +188,6 @@
       "trader": "DV6bcB61BExU4h9U6SUVSXu5YMTuFqkhvV7o3R6Qj2tv",
       "txHash": "hJeA1QWhmnRybSywwmb1wbyJ9HWLBjG1H7TDhP97iG68hb6akkfkSfiUKHX4N9DoCAmAV6X6L4aiUCwB5sUJWs7",
       "ts": 1790447397000
-    },
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "sell",
-      "amount": 65706.007828978,
-      "usd": 17472.77157423068,
-      "trader": "7GWCuMtb8m1Q26ZBiZMdVD84A267TAtMkR9kzBAzYT1E",
-      "txHash": "VDmG7kTAkzC3oTVQHxqNpvkNRbFJRknydvsiQ6yCAfKMMiXNsVVEyLfX9L1SudZcARLXnGrdzDmhoqX5tvjw25G",
-      "ts": 1790438983000
     },
     {
       "chain": "solana",
@@ -182,6 +215,17 @@
       "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
+      "dir": "sell",
+      "amount": 55931.929473371,
+      "usd": 16120.571508740772,
+      "trader": "28bcF6diYNzyKvYCHJZTQbzrcF7esZg95eSdj1QC8K4z",
+      "txHash": "5Kmn9rQe8o1JqsjpEqfEEDt9B35kUrJrKfzDEqZi8YyQNh3FJuCg5XKJCEoCKFVuTK5KjLSG6UFDbsSenuNJPpUj",
+      "ts": 1790453661000
+    },
+    {
+      "chain": "solana",
+      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "symbol": "STONK",
       "dir": "buy",
       "amount": 57675.196745712,
       "usd": 15774.991291254575,
@@ -194,11 +238,33 @@
       "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
       "symbol": "PAID",
       "dir": "sell",
-      "amount": 344125.213392,
-      "usd": 15295.702014091601,
-      "trader": "97sURWodvVWH3bwnmXzfmP9BnkChs6mj7c3yQ7a5V63N",
-      "txHash": "5n1P1HyBKD8hca9zns4QBnh7ebjSq3M2jieBRMhxA2FboKhn8Fzeh4JfghQq3Q9xv2cNdDg63Tk6EN6Bhw7fxYsR",
-      "ts": 1790447952000
+      "amount": 324636.292607,
+      "usd": 15021.368106254316,
+      "trader": "4eymt7JFo9hgTghFtidGpfFbH94NSDieRk26et1CsPXo",
+      "txHash": "4Yayudoah7FwC7BYJ2o5H636vwLEftG8Nm36RZLCPDGJdkBn86k6b1WB12nHyKcN4fXWXLfELXfXxNnPirMT6JqR",
+      "ts": 1790458426000
+    },
+    {
+      "chain": "solana",
+      "token": "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU",
+      "symbol": "e/acc",
+      "dir": "buy",
+      "amount": 696580.558142,
+      "usd": 14970.82075308714,
+      "trader": "498g1rVnFcnjBjpfw1xyqA1WvgQXUU8RWuELjxkjAayQ",
+      "txHash": "2i2QzzCMdTui6AwmUPn2JkRNs9C4S8kcmv1kaJ6WxPh6UeGeMee46ShrBuuvdEbJTNJihPCt8Bo6WE2gGdUXhWBr",
+      "ts": 1790454242000
+    },
+    {
+      "chain": "solana",
+      "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+      "symbol": "PAID",
+      "dir": "buy",
+      "amount": 328329.06127,
+      "usd": 14456.752284805274,
+      "trader": "MriyaNN8TMp6qRWjfr723PK7xgQK7yCt7Kg2v2PQu7X",
+      "txHash": "4A4ZKTkFgCcZfPs1tGPrkkRy9QTHsktNXDmBjqhZrYYdFbEkVkkaKcQA5EtZchvKWCinjFpkihBETVwj1FUDppc9",
+      "ts": 1790460241000
     },
     {
       "chain": "solana",
@@ -213,17 +279,6 @@
     },
     {
       "chain": "solana",
-      "token": "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU",
-      "symbol": "e/acc",
-      "dir": "sell",
-      "amount": 960000.024333,
-      "usd": 13887.123530818546,
-      "trader": "HaHToYj1EDQf2FzwV9g34wWumk1nsgv55Mu2ou7FFX9Q",
-      "txHash": "4vGGAPAJ63cNfsYJN6BwJfTFRPbH4CZ82YMAftvvR7uryY9bnwzi15bSXWUmBAwpvjUfaowBmakbAdxjcUV7KFTu",
-      "ts": 1790443668000
-    },
-    {
-      "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
       "dir": "sell",
@@ -235,47 +290,14 @@
     },
     {
       "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "sell",
-      "amount": 50000,
-      "usd": 13224.346016573592,
-      "trader": "8spEGd9NLZTDh3oBHKNbwdNu6Ws9u857cHEsMBesSwhk",
-      "txHash": "5knZ7i2UWk8j4dzC3z6oYATcWvXpuyEcTYgyiuAuUrKfGSdrGc39hXjz6otpvLiFw6q696XKFdzb1XLKkFVKyTcS",
-      "ts": 1790439312000
-    },
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "buy",
-      "amount": 48730.587115533,
-      "usd": 13061.472679613204,
-      "trader": "6KY5uD1sLfzNJZX4Kesb37fiawtXZXz45R6gDJvoYmdR",
-      "txHash": "dqp1ZYEyMHS8We95jh7MPdzhzyoEFr2ovf6dktJWAiRvHWSDTcWSxJmtuPAaf5C4D1EVtSQyEGEHqm4B8MPJahD",
-      "ts": 1790439606000
-    },
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "buy",
-      "amount": 50988.744212108,
-      "usd": 13006.727763176696,
-      "trader": "JCLRmm7Go8jsUQp9XBKBm4qJtyeJQFYGdunQq6HgJdeU",
-      "txHash": "2JLquG5J4vx5o31tVwFCtYDPoHv8oBcB572zLLJXAgU3UdHpbaxCM26RFj9LKFVei32fDQVi2fiSsb6pvbdJCu7M",
-      "ts": 1790434591000
-    },
-    {
-      "chain": "solana",
       "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
       "symbol": "PAID",
       "dir": "buy",
-      "amount": 288699.791874,
-      "usd": 12775.716708455679,
-      "trader": "97sURWodvVWH3bwnmXzfmP9BnkChs6mj7c3yQ7a5V63N",
-      "txHash": "5FZ6uThHaPM9yfPKwcBZdyguKGhoUH35SLEku4DECtBvo7pqXzAfX3rKabKQXCKCz2hUvdyxSUVa5JPNgbny7Avr",
-      "ts": 1790448220000
+      "amount": 294653.478615,
+      "usd": 12494.105712368259,
+      "trader": "MriyaNN8TMp6qRWjfr723PK7xgQK7yCt7Kg2v2PQu7X",
+      "txHash": "3v6NttS1x6Mj3f5KoGNpm9TBwVwf87m8bv2owpwBFXfUEmKvWf4vNpPQJSNmXEtV8Bz9c7yofoumXmMYiJzfSuPN",
+      "ts": 1790454911000
     },
     {
       "chain": "solana",
@@ -287,6 +309,17 @@
       "trader": "FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT",
       "txHash": "3cGCUVYbJUQ4CRGd69brNnMPznAvaKZ41v8dYBM5HYnHr9vp9xAULW92aAf18s3Ca2AkDzphDdAyJg3fBWxPpoF8",
       "ts": 1790433774000
+    },
+    {
+      "chain": "solana",
+      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "symbol": "STONK",
+      "dir": "sell",
+      "amount": 41613.007636395,
+      "usd": 12180.00819992882,
+      "trader": "3kfRbS3HhkLyirFth2EfokCwQLvQA1LwWxrxca7U2C5T",
+      "txHash": "45gGqkmoV2u4WNBAApYvFnToqJNrpi5ayRgB5MZ9m8Q5pR7QcZiX83vVv5GuzYPqHDhUpG5MXYvV7m1NXE5dhSFQ",
+      "ts": 1790452121000
     },
     {
       "chain": "solana",
@@ -312,36 +345,14 @@
     },
     {
       "chain": "solana",
-      "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
-      "symbol": "PAID",
+      "token": "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU",
+      "symbol": "e/acc",
       "dir": "sell",
-      "amount": 282974.642871,
-      "usd": 12071.615081738826,
-      "trader": "CRtUKvZYpQtjxajaFdkjYF9HqQ9N1yG9ZaBr385qrz2p",
-      "txHash": "2uhAg7FVYej5aArLFhRr1S1Gf8UGrKxBE7vxC6VFWMHP6HK3sitEbRqWVfR3A3Cs6BUqAatyN5XCHVr6t9VgK5Yo",
-      "ts": 1790448017000
-    },
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "buy",
-      "amount": 45958.695565694,
-      "usd": 11883.13216315081,
-      "trader": "JCLRmm7Go8jsUQp9XBKBm4qJtyeJQFYGdunQq6HgJdeU",
-      "txHash": "3T657xFCotPPUx73DfXBH3MP39UHvFXVFeno5pqEukfcotTqoutyUksjisyHZbC7DVXGgrQqEUGCt2jMUymV96LC",
-      "ts": 1790434753000
-    },
-    {
-      "chain": "solana",
-      "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
-      "symbol": "STONK",
-      "dir": "sell",
-      "amount": 45868.885333762,
-      "usd": 11849.981361737573,
-      "trader": "MriyaNN8TMp6qRWjfr723PK7xgQK7yCt7Kg2v2PQu7X",
-      "txHash": "2noR6htabvXo8nBsJsLPDTv6aGqqMvqqjoA1HnBCLzEMJ4x6UD8BFbCZ5Pz4knbWMquTYHbxe4ZY3sZhL1ALL4nY",
-      "ts": 1790434733000
+      "amount": 603455.575025,
+      "usd": 11846.003508677004,
+      "trader": "4DovZLQMSrHhptkcteC7x5UCGRSEmLqfAQKtjBUEJxC1",
+      "txHash": "MLh7R2yHJusi4mjt77zESPLEtwfLuzo3HmsTUWA62X9SNCzKcYGHk3XFaNsbsm479sSmHBQMbrUcvP2hLYdreN6",
+      "ts": 1790454663000
     },
     {
       "chain": "solana",
@@ -358,12 +369,12 @@
       "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
-      "dir": "buy",
-      "amount": 42890.363463443,
-      "usd": 11315.751306085822,
-      "trader": "GpDY9iySySLMiHnKU1EY17QGXeuaE4JDAjZ6VXYDKpW9",
-      "txHash": "7hNTwK57qFwaTz69R4PUsX1KyfhJx4YGxVe3MpqDwo6Act8BanuRLo2j7TwZSDHg3Y4FqHYRHYoApjdwYe88ZAS",
-      "ts": 1790437289000
+      "dir": "sell",
+      "amount": 40663.821996368,
+      "usd": 11332.431860120942,
+      "trader": "BYSGtky6Mmm3YVySoaNzjfBthoQ7MD1k1Xsvk9xv9EZn",
+      "txHash": "2ZnJ6Nkmcootha5kwDvB8VHHESZ1DNAujVULZE8pq2cQ9aXEWFgCEXrCPDNRbyMAoVYATe82ZriArprh2BYDsfSG",
+      "ts": 1790459868000
     },
     {
       "chain": "solana",
@@ -381,33 +392,33 @@
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
       "dir": "buy",
-      "amount": 43700.053339895,
-      "usd": 11196.987119005227,
-      "trader": "JCLRmm7Go8jsUQp9XBKBm4qJtyeJQFYGdunQq6HgJdeU",
-      "txHash": "4o2dKtPHZk8LtPyko2WRmTPqiaywMRNXnESGkGPURZZDcou9xijYE3c5cDQ1rYR8JoD5MHqEV33rrBzwcBvpmpRC",
-      "ts": 1790434611000
+      "amount": 38365.517522344,
+      "usd": 10802.533920349779,
+      "trader": "7DnXmQNgrRJk6Ew9jCzxhMrMdWawjyfZMut6hxNEQsic",
+      "txHash": "3FzvAb664qmTwavhtjsyqSGVE2ufMBViY265NRrdrYxAcorW3W3GchPT4q6mRvfSgsCuPjV3VNncZx1A3zrJe2UH",
+      "ts": 1790443006000
     },
     {
       "chain": "solana",
       "token": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
       "symbol": "PAID",
       "dir": "buy",
-      "amount": 231603.08721,
-      "usd": 10904.915322526444,
-      "trader": "9VFMb8uP8e8pUFMgvTdseT4FG855aGGxzQcNiKgSEGSJ",
-      "txHash": "2TA8uynPw53a7FNwo3FTnZeuksAGbmy1LtHLh7Hgx1XfxeZBJz4B6XSvosqbDKgvWNnp5ef3BziqBcWVswVEhVzd",
-      "ts": 1790445347000
+      "amount": 230386.034598,
+      "usd": 10647.135887000042,
+      "trader": "MriyaNN8TMp6qRWjfr723PK7xgQK7yCt7Kg2v2PQu7X",
+      "txHash": "5M17QR7c4soj2EhgtLxvXMXt9FBH3NHknTSPBPFBFtEc8Pt65A6N8ksnWBiXM3ZpWwiuNm5VTUpYht6UeCzgtY2b",
+      "ts": 1790458426000
     },
     {
       "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
-      "dir": "buy",
-      "amount": 38365.517522344,
-      "usd": 10802.533920349779,
-      "trader": "7DnXmQNgrRJk6Ew9jCzxhMrMdWawjyfZMut6hxNEQsic",
-      "txHash": "3FzvAb664qmTwavhtjsyqSGVE2ufMBViY265NRrdrYxAcorW3W3GchPT4q6mRvfSgsCuPjV3VNncZx1A3zrJe2UH",
-      "ts": 1790443006000
+      "dir": "sell",
+      "amount": 35536.785212357,
+      "usd": 10287.30401543048,
+      "trader": "8RHn6UmDnbhBFZdXLi66YweZtVJyf1pfRMnifEFpY5X2",
+      "txHash": "2mEHaDSmghNBqDPgEMWnFuB5fLNSHVD1RxVFZ6HzQnoZ7G7eAUT61fm1MJe3nRKbqUsKpFaf2NVALoyQaGonb6rP",
+      "ts": 1790453476000
     },
     {
       "chain": "solana",
@@ -422,25 +433,14 @@
     },
     {
       "chain": "solana",
-      "token": "CbcyNo7m1amFWqEQm2m4PLv1UNvpcL3C1Ujm6AkzpKoU",
-      "symbol": "e/acc",
-      "dir": "buy",
-      "amount": 584768.298985,
-      "usd": 9938.828000923202,
-      "trader": "CwQKq9w94C6UkbYFzFj6XHXiC6SFrLXpJk92JikoFbAV",
-      "txHash": "5wbQ1diJN3eFVAFD2JYwRcoZFVSkL3MFCAZ9pUHBq6DcEcWGso8bZXM7CXtrjHrqRFXTunT6Mt5qEmyxWKxWg5Yf",
-      "ts": 1790448844000
-    },
-    {
-      "chain": "solana",
       "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
       "symbol": "STONK",
-      "dir": "sell",
-      "amount": 37772.445498909,
-      "usd": 9868.1953809496,
-      "trader": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
-      "txHash": "2PAVaKFAiTwJhNR6MuvRDAgdzC7pTRHBgqMUL9cgiK918kMxrbgXEwZZ5esjkGi9cq1oeXDiioeiH7x3De1KztCV",
-      "ts": 1790437000000
+      "dir": "buy",
+      "amount": 34188.448234103,
+      "usd": 9682.74046285732,
+      "trader": "4hMB9bjcmyhpVdTmZQFPBwFCP2JmK2ChFmLCZCrNb3Gt",
+      "txHash": "TuNpGP8gBh3x2NQ3RvxYDMgJgnygrBVCinuEqdai19yPRQkCFCVQYmjbDj45DC524XqorBEvBEFke5kTeUURYTq",
+      "ts": 1790455915000
     }
   ]
 }
