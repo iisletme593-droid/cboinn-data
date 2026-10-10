@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:32:35.526Z",
+  "updatedAt": "2026-10-10T22:57:36.845Z",
   "count": 40,
   "whales": [
     {
@@ -51,28 +51,6 @@
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "sell",
-      "amount": 11137.00951419,
-      "usd": 19795.9790618028,
-      "trader": "0x30fe2e87e3903e3cd682eb53df14fd393f41a61d",
-      "txHash": "0x476396c8902ec18cdeb3d99b9554423b0b6b100cabf32802b6e9e5d856ddb33b",
-      "ts": 1791646005000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
-      "symbol": "SHARE",
-      "dir": "sell",
-      "amount": 10046.42061686,
-      "usd": 18008.842461998,
-      "trader": "0xaf27f1af93272e1e760947686d30e9739545daa4",
-      "txHash": "0x203fe259dd64e42609a233e2e67b922116de738c047fa7e0e486aa89e8b9f4b5",
-      "ts": 1791646847000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
-      "symbol": "SHARE",
-      "dir": "sell",
       "amount": 9384.13955897,
       "usd": 17306.2131501499,
       "trader": "0xa1b1fad326697dfb9a5d48cbe0f5f50387e0ef4e",
@@ -89,6 +67,28 @@
       "trader": "0xfa035c4a0666afdbb5d6150aa387489349a07432",
       "txHash": "0xe07740fc76e660a41fc6fc7d4bcce2ad218978126b227fb2ebfd9b677d1e2dac",
       "ts": 1791653195000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "sell",
+      "amount": 8773.58880527,
+      "usd": 16080.475449491,
+      "trader": "0x8f85beaef5d81234070ea29e72405127d3aff6b9",
+      "txHash": "0x22ecaa77fcb9c77a2913ce7f354e75680a34b4c9da79323f959388ff7f8d9ee7",
+      "ts": 1791666238000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 8197.69216290977,
+      "usd": 14987.6272858354,
+      "trader": "0xf39b06adf600141560ff8bc7eea8188b5e7408b6",
+      "txHash": "0x9d900b08d1ad7c6411364781430494b592ac14432e03c36b7ff622af7be71125",
+      "ts": 1791662411000
     },
     {
       "chain": "bsc",
@@ -117,33 +117,11 @@
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "sell",
-      "amount": 7465.75335,
-      "usd": 13388.7835440648,
-      "trader": "0xd6b0becb6fef598a39df2ec3d2defe9ffd19f598",
-      "txHash": "0xb210bfc90a7d429029690b2ab7a5c9d77955416ac68f04a704a3a85bc7c2339b",
-      "ts": 1791645968000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
-      "symbol": "SHARE",
-      "dir": "sell",
-      "amount": 6654.58723118,
-      "usd": 12065.4353129685,
-      "trader": "0xa4bc82cacca0c44e08b8ef1388521dc4eb2fca0c",
-      "txHash": "0xc822f3c8f7f7a7f094393be487db74f26c16e0d0f5b362e0100d26617d7f364e",
-      "ts": 1791645965000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
-      "symbol": "SHARE",
-      "dir": "sell",
-      "amount": 6717.48452305,
-      "usd": 12050.3996467413,
-      "trader": "0xcef6bb6755ba7fca95d88533bb20410bb8e8e54a",
-      "txHash": "0x13da18994810c253db71c51552228eec0c3ef86cc94d1b5ee8c71835f7b91201",
-      "ts": 1791645701000
+      "amount": 6580.64579015785,
+      "usd": 12039.6071479685,
+      "trader": "0x60635b66586e109137f50c10a550d1d1c4fa7aa8",
+      "txHash": "0xc3e3555b9e8f162640675371aabe99949f4f0dc7f14c02a08707a4f1f1cf6e8c",
+      "ts": 1791662585000
     },
     {
       "chain": "bsc",
@@ -158,25 +136,36 @@
     },
     {
       "chain": "bsc",
-      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
-      "symbol": "SHARE",
-      "dir": "sell",
-      "amount": 6640.96052579,
-      "usd": 11993.039505064,
-      "trader": "0x72a5c82b9abd33da475d5e4e3f1699b6380dfcaa",
-      "txHash": "0x1782a4f755c0b9da1b925d5bb48675e77d42fc8f97a37a5ab7790aeb12793c60",
-      "ts": 1791645746000
+      "token": "0xc69b16cf18cea1e5d0bb6a1a9db802097790ddd2",
+      "symbol": "CNPY",
+      "dir": "buy",
+      "amount": 43916.149429,
+      "usd": 11715.6984078339,
+      "trader": "0x266445d3d5179ffa5d56421508aeeff80c392f96",
+      "txHash": "0x6d560f461c1010deac33bb3868b6f96a90b711996bad08007d5987ca6af9ad10",
+      "ts": 1791671461000
     },
     {
       "chain": "bsc",
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "buy",
-      "amount": 6413.07890342625,
-      "usd": 11545.5198215068,
-      "trader": "0x321c57c282b127f5a1eb1ec995673c43fe001d68",
-      "txHash": "0xdb8b00f23ee9e796a566d5968f3b84ac79f0a32307c769b137ae69abb9d6ce79",
-      "ts": 1791645719000
+      "amount": 6240.42749135615,
+      "usd": 11184.2146142503,
+      "trader": "0x569a39927acb1af631cabda2ce05c39ce366769c",
+      "txHash": "0xa7461add5f2dfe08d2227077dd93419dafd3ad253e2249535c3a934a51cf46e5",
+      "ts": 1791662361000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "sell",
+      "amount": 5468.60048399025,
+      "usd": 10066.2043987544,
+      "trader": "0xdc1afaedbf529d1bb0c65c982308ffd1e7df5570",
+      "txHash": "0xcadebeb67d70603f28e503f3a88e2697227d8ddad1bb331b106067a05650c7f6",
+      "ts": 1791662473000
     },
     {
       "chain": "bsc",
@@ -204,23 +193,34 @@
       "chain": "bsc",
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
-      "dir": "sell",
-      "amount": 5440.85178335,
-      "usd": 9984.87463414212,
-      "trader": "0x924b1a2ae12c05213b28d6bb34ee0792c254b97d",
-      "txHash": "0xdf3646d0c81eae6764efe8b58f7544e352c5edb64a10d5ad63677f276fb8d4f6",
-      "ts": 1791654305000
+      "dir": "buy",
+      "amount": 5483.42984925344,
+      "usd": 9996.74158448491,
+      "trader": "0x88782124023a8d89c23717218bb2cee5e5f192b5",
+      "txHash": "0x49db87b784291ab47d5593213c96ec3dac11d9965687b8dfa690b6bab6f95bc4",
+      "ts": 1791666071000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 5498.67603230994,
+      "usd": 9991.39920397341,
+      "trader": "0x2f73400f00753173733a45835ac0040b7d337b54",
+      "txHash": "0x2d4833daaff84f160986064de7dbc7d0bb09a87faae840115cfa624a6acde5c2",
+      "ts": 1791662384000
     },
     {
       "chain": "bsc",
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "sell",
-      "amount": 5598.72710673,
-      "usd": 9984.7707202071,
-      "trader": "0xda1331de2d4710a99b38eddddf2a9441f6d98c37",
-      "txHash": "0x5512c7a94c5a18b976ef1e5e556b136670b4aeb0d8f0a114ca4291f5d3348107",
-      "ts": 1791646218000
+      "amount": 5440.85178335,
+      "usd": 9984.87463414212,
+      "trader": "0x924b1a2ae12c05213b28d6bb34ee0792c254b97d",
+      "txHash": "0xdf3646d0c81eae6764efe8b58f7544e352c5edb64a10d5ad63677f276fb8d4f6",
+      "ts": 1791654305000
     },
     {
       "chain": "bsc",
@@ -249,11 +249,33 @@
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "buy",
-      "amount": 5432.53670225374,
-      "usd": 9679.37052575082,
-      "trader": "0x4dd39a3e3642b818dd6b03aa3c60e5e06b475232",
-      "txHash": "0x2f8eb2ee40c156a47e824368b419ec63275f7333de04dd52e6020971f5ff71ca",
-      "ts": 1791646475000
+      "amount": 5568.72211751046,
+      "usd": 9941.52410155582,
+      "trader": "0xf39b06adf600141560ff8bc7eea8188b5e7408b6",
+      "txHash": "0xbede4ec6424e1f5849ebe9a093f68ee1b60fc6033911265204ee23f6607bb203",
+      "ts": 1791662360000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 5403.40485850912,
+      "usd": 9851.36897902395,
+      "trader": "0xd9cc9bb5fb5325ccbfe705da74209df4fa3cff0c",
+      "txHash": "0x96768f75f8f0a052cb45bccee6b479265dc49af65bcf0daba42548ec3f324249",
+      "ts": 1791666082000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "sell",
+      "amount": 5132,
+      "usd": 9322.79398620617,
+      "trader": "0x30fe2e87e3903e3cd682eb53df14fd393f41a61d",
+      "txHash": "0x06687c98d8e328fc3d59cac6bcec2148c5174da6823774a30478fdbc82b01cb7",
+      "ts": 1791663277000
     },
     {
       "chain": "bsc",
@@ -268,179 +290,157 @@
     },
     {
       "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
       "dir": "sell",
-      "amount": 5642110.34971718,
-      "usd": 9020.33097907458,
-      "trader": "0xcc5f7c3ec0784222707603f0f7030a2e7d6d14c8",
-      "txHash": "0x18097583935de51bd296d0ae4b756a12dd3e916bad6d7d5418f8311e7bdee0ef",
-      "ts": 1791656808000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "buy",
-      "amount": 5639863.13856817,
-      "usd": 9018.23793122228,
-      "trader": "0xcc5f7c3ec0784222707603f0f7030a2e7d6d14c8",
-      "txHash": "0xeb1c43520579d84fecc8dc7ba3d3bc50b2c0c721ee7db386024e6ab1ed3b8b70",
-      "ts": 1791656841000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "sell",
-      "amount": 5639863.13856817,
-      "usd": 9016.42513496825,
-      "trader": "0xcc5f7c3ec0784222707603f0f7030a2e7d6d14c8",
-      "txHash": "0x0623fca21e45c98a588de40e4f884e50489160c9f59b0060b6f5c0a812eb67f4",
-      "ts": 1791656847000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "buy",
-      "amount": 5642110.34971718,
-      "usd": 8977.14894553765,
-      "trader": "0xcc5f7c3ec0784222707603f0f7030a2e7d6d14c8",
-      "txHash": "0x756f3a358cc1a90a3c15550f03cdab009b9cea169ea89fe4786a26b591794fb3",
-      "ts": 1791656802000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "buy",
-      "amount": 5640988.22314236,
-      "usd": 8975.28645118634,
-      "trader": "0xcc5f7c3ec0784222707603f0f7030a2e7d6d14c8",
-      "txHash": "0xe470e1820cc03855131f38b2226e17684070572efb6c5cff06c1cc7196a119e8",
-      "ts": 1791656819000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "sell",
-      "amount": 5640988.22314236,
-      "usd": 8973.49362924344,
-      "trader": "0xcc5f7c3ec0784222707603f0f7030a2e7d6d14c8",
-      "txHash": "0x3b25376aca1db4a53f8a6db1178a49de9a1a65fac3be19b5bf300700f0389433",
-      "ts": 1791656825000
+      "amount": 4415.15838824,
+      "usd": 8005.69985590906,
+      "trader": "0xd6b0becb6fef598a39df2ec3d2defe9ffd19f598",
+      "txHash": "0x37b1c4ffda00540ca14c096280ade7052b920631b9a259e33dc4ec63d4a2ca3e",
+      "ts": 1791648265000
     },
     {
       "chain": "bsc",
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "buy",
-      "amount": 5003.39987106355,
-      "usd": 8967.76200980065,
-      "trader": "0x17a1bf7e7f985f2f6119f0788308c0063d8811fe",
-      "txHash": "0x3e7064810bde2f15d377640735da0722629109f6933df475c9df6699428555d4",
-      "ts": 1791645974000
+      "amount": 4440.97064918026,
+      "usd": 8003.01177230291,
+      "trader": "0x926a412640cba688508da4822dd608116ec7aaeb",
+      "txHash": "0xe92a7fae29536de867660d55ece60aaeb1c99e1f0f56eca825aae805544d90fd",
+      "ts": 1791649249000
     },
     {
       "chain": "bsc",
       "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
       "symbol": "SHARE",
       "dir": "sell",
-      "amount": 5003.39987106,
-      "usd": 8925.5081573904,
-      "trader": "0x9d9319244266a87c64b66bfed69023b361721273",
-      "txHash": "0x3463bd80ff930629a0d3ce7f95680f3c4188d6e09ea28e011a5afd30f991ce3c",
-      "ts": 1791646043000
+      "amount": 4406.04327047,
+      "usd": 7991.49607342627,
+      "trader": "0xdab07dd53ddcc4302151994e0adbc215b3cf9dec",
+      "txHash": "0x3a4a7274b16edad632da835d1b8539ed3ca0ded55e74c08efb711dae48ea4504",
+      "ts": 1791655501000
     },
     {
       "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "buy",
-      "amount": 5176309.33052892,
-      "usd": 8280.98919872861,
-      "trader": "0xb1b2d4f67a2d84008ac72e1bb0aec8cb9c03a807",
-      "txHash": "0x4ab1208bbcfc1a8409c0d1aba6bff0914dea9d36956c10025caa15b9f55f2486",
-      "ts": 1791656628000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "buy",
-      "amount": 5176444.30598963,
-      "usd": 8277.56663673177,
-      "trader": "0x4e7499601b54b8f68cc78b82d2ec913bf5472b7b",
-      "txHash": "0x170f4094f8d9d175df26a2625a9ef6846c2c73ee63711b59e7d08f73c31d7511",
-      "ts": 1791656930000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
       "dir": "sell",
-      "amount": 5177480.17727721,
-      "usd": 8277.56663673177,
-      "trader": "0x4e7499601b54b8f68cc78b82d2ec913bf5472b7b",
-      "txHash": "0x794b88aaf2baf0f99e2c8a8d5976adf192e2f8cab8852f39c534030e3072de8e",
-      "ts": 1791656923000
+      "amount": 4440.97064918,
+      "usd": 7979.26603695188,
+      "trader": "0xec6f031f3a45d07d8ac1ac6a44c2def0a511fa65",
+      "txHash": "0xf71134869b30e9992df64a6ed094bba77ce4c874564f3280bdade64fe556358e",
+      "ts": 1791649270000
     },
     {
       "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "sell",
+      "amount": 4403.1156857,
+      "usd": 7975.05149920807,
+      "trader": "0xd87199a471f922a30b25c8d5fe66fb202c1094a5",
+      "txHash": "0x218f5a2b9c416f29533a60454444e6fb447133de91f326b38f5392699a5f205b",
+      "ts": 1791653270000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "sell",
+      "amount": 4393.07818713,
+      "usd": 7945.25431651081,
+      "trader": "0xec8c52f66bdc651e85f4bd3e350550c52506bc32",
+      "txHash": "0xeb6f813082de44e7aadb38d6cdc86bed3333100d35c67e4cf40b6bc173b07077",
+      "ts": 1791653530000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
       "dir": "buy",
-      "amount": 5175409.49632727,
-      "usd": 8276.58539235779,
-      "trader": "0x4e7499601b54b8f68cc78b82d2ec913bf5472b7b",
-      "txHash": "0x3d496e4b97c975eb1603ce496ff5917f3e2497191806ede72b3b0790c5d16056",
-      "ts": 1791656946000
+      "amount": 4223.30995866527,
+      "usd": 7619.89947362955,
+      "trader": "0x5ab46921f57ca21fb2e5ab48280a9b0abc76d15d",
+      "txHash": "0x45e17c17c7a6be54c46685cdd3f25eb0b4beb00249f97d6d13568afe5a8de7ad",
+      "ts": 1791671530000
     },
     {
       "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
+      "token": "0x99991c6aabba5a096f24f250b73580f5179b9999",
+      "symbol": "CAP",
       "dir": "sell",
-      "amount": 5176444.30598963,
-      "usd": 8276.57409761217,
-      "trader": "0x4e7499601b54b8f68cc78b82d2ec913bf5472b7b",
-      "txHash": "0xb897a8892f5b51e0bd65d08a432b2d7eee9c4a11e41ec11f79b59ccb2f16ace2",
-      "ts": 1791656936000
+      "amount": 86084,
+      "usd": 7548.72988190414,
+      "trader": "0x4c259cbe48ca86a719752fa0da6c3d01dfbc1cd7",
+      "txHash": "0x68783299b29e9b469c08adc2ed00ccda3636197cef99a16b68e3695e87f28760",
+      "ts": 1791665944000
     },
     {
       "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "sell",
-      "amount": 5174375.45360586,
-      "usd": 8275.47599921757,
-      "trader": "0x4e7499601b54b8f68cc78b82d2ec913bf5472b7b",
-      "txHash": "0x4f82ac00ed900fea0c4b9be30ea4ebb02468e55e44b7e69eda858b217f8c9624",
-      "ts": 1791657048000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
-      "dir": "sell",
-      "amount": 5175268.3556831,
-      "usd": 8273.95722034101,
-      "trader": "0xb1b2d4f67a2d84008ac72e1bb0aec8cb9c03a807",
-      "txHash": "0xc62ccf41b72cee72a9b1279d94872609e9cb1f78f3c39beba3673e9dc3c46aa9",
-      "ts": 1791656815000
-    },
-    {
-      "chain": "bsc",
-      "token": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
-      "symbol": "quq",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
       "dir": "buy",
-      "amount": 5170893.45772438,
-      "usd": 8270.95347660233,
-      "trader": "0x1749fdfcd63272128866cdff3dbd605ce61086ad",
-      "txHash": "0xa33412c34c418882ae8b30666d56a3e65281553fce3674f6ab2072a5f6e72422",
-      "ts": 1791657201000
+      "amount": 4143.19581198338,
+      "usd": 7475.30973278582,
+      "trader": "0x2cedf05743320bc5e4f199457a7f4d4991098c09",
+      "txHash": "0xa2905a0446ccbe51d084134d44d4d13e06da5e5e3548cf527875a11bfba881cc",
+      "ts": 1791652683000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 4140.96820185453,
+      "usd": 7473.12683157342,
+      "trader": "0x2cedf05743320bc5e4f199457a7f4d4991098c09",
+      "txHash": "0x0feb50fc4fb7045a8dd25e013f7f6c2f46db8a7cc997a511ddbcbf35fc7aee31",
+      "ts": 1791653032000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 4105.63780201338,
+      "usd": 7442.15867978553,
+      "trader": "0x2cedf05743320bc5e4f199457a7f4d4991098c09",
+      "txHash": "0xc165b7c88141dd1cdf3684e9c0cf11c898ff5cbaa8b8e82803528fa95b316fb7",
+      "ts": 1791654199000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 4089.39207725145,
+      "usd": 7442.13669160969,
+      "trader": "0x2cedf05743320bc5e4f199457a7f4d4991098c09",
+      "txHash": "0x5c65002d4a6e40493cecf90698d5efc74d3978422379fe3fc2960874d8abfc5f",
+      "ts": 1791654233000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x5fca51aff213bfbeab0b711b93c3374252fd6ac3",
+      "symbol": "SHARE",
+      "dir": "buy",
+      "amount": 4118.19789109588,
+      "usd": 7435.59004879688,
+      "trader": "0x2cedf05743320bc5e4f199457a7f4d4991098c09",
+      "txHash": "0xe88f0f297e63de02331bce2a4f474e514b084a9eb460a80bf43671b967f6fff0",
+      "ts": 1791653090000
+    },
+    {
+      "chain": "bsc",
+      "token": "0x99991c6aabba5a096f24f250b73580f5179b9999",
+      "symbol": "CAP",
+      "dir": "sell",
+      "amount": 83594,
+      "usd": 7409.35326299812,
+      "trader": "0x47eb2497816f3e95079a492c6e81f1c00c18005c",
+      "txHash": "0x1b7c5590b9229aadc73098b5bbd1ed353bac13401bce85d3eb426adb249af509",
+      "ts": 1791665944000
     }
   ]
 }
